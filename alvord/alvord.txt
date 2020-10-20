@@ -1,0 +1,104 @@
+*>                     Airspace for Alvord Desert, Oregon                      <
+*>                                                                             <
+*>                         Data courtesy of Lynn Alley                         <
+*>                                                                             <
+*>              File created on Friday, 19 July 2013 at 03:36 GMT              <
+*>                                                                             <
+* US AIRSPACE INFORMATION FROM NASR DATA EFFECTIVE 2013-06-27                  <
+* UNOFFICIAL DATA (NOT FOR NAVIGATION)                                         <
+*                                                                              <
+* The Class B, C, and D airspace information in this file is composed of       <
+* computed approximations of the arcs and lines that make up various airspace  <
+* boundaries that have been derived from lists of points along those boundaries.<
+* The point data has been taken from the Federal Aviation Administration       <
+* National Airspace System Resource (NASR) geospatial information files as     <
+* published by the National Flight Data Center.  Errors in the computed        <
+* positions of the boundaries themselves will generally be less than 300 feet  <
+* (although errors in the estimated positions of arc center points and radii   <
+* might be much larger); however, any of the following factors may cause errors<
+* to be greater:                                                               <
+*                                                                              <
+*   1.  Errors in the source geospational data;                                <
+*   2.  Cases involving irregularly shaped boundaries, such as those formed    <
+*       by rivers and roads, etc.;                                             <
+*   3.  Errors in the methods or programs that are used to compute the         <
+*       approximations.                                                        <
+*                                                                              <
+* Airspace information for special use airspace, including Prohibited, Restricted,<
+* Alert, Military Operation, and National Defense areas are taken from AIXM    <
+* files published via the Facility Aeronatical Data Distribition Service of the<
+* National Flight Data Center.                                                 <
+*                                                                              <
+* Note that the software used to produce the approximations contained herein   <
+* has not been certified for navigational use -- CONSEQUENTLY, THIS            <
+* INFORMATION SHOULD NOT BE RELIED UPON FOR NAVIGATION.  Use of this           <
+* information for any other purpose is solely at the user's risk.  This        <
+* information is provided free of charge.  No warranty, expressed or implied,  <
+* as to the accuracy or suitability of this information for any use is         <
+* provided.  Always refer to official sources, such as current sectional       <
+* charts, for authoritative information.                                       <
+*                                                                              <
+*                                                                              <
+*> ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ End of the header ^^^^^^^^^^^^^^^^^^^^^^^^^^^^<
+*>                                                                             <
+* >> Alvord Alpha, Oregon ID: ALVORD_ALPHA <<
+AC W
+AN Alvord Alpha, Oregon
+AL FL180
+AH FL250
+DP 43:19:36 N 118:42:29 W
+DP 42:42:28 N 117:56:26 W
+DP 41:52:50 N 118:25:40 W
+DP 41:53:40 N 119:06:53 W
+*-------------------------------------------------------------------------------
+* >> Alvord Bravo, Oregon ID: ALVORD_BRAVO <<
+AC W
+AN Alvord Bravo, Oregon
+AL FL180
+AH FL250
+DP 43:19:36 N 118:42:29 W
+DP 42:28:08 N 117:37:43 W
+DP 41:52:25 N 117:56:04 W
+DP 41:53:40 N 119:06:53 W
+*
+* >> PARADISE NORTH MOA, OR <<
+AC Q
+SB 0,0,0
+AN PARADISE NORTH 0730-2200 MON-FRI & BY NOTAM
+AL 3000 AGL
+AH 17999 MSL
+DP 42:45:00 N 117:00:00 W
+DP 42:00:00 N 117:00:00 W
+DP 42:00:00 N 117:44:38 W
+DP 42:25:00 N 117:42:00 W
+DP 42:45:00 N 117:09:00 W
+DP 42:45:00 N 117:00:00 W
+*
+* >> PARADISE SOUTH MOA, ID <<
+AC Q
+SB 0,0,0
+AN PARADISE SOUTH 0730-2200 MON-FRI & BY NOTAM
+AL 3000 AGL
+AH 17999 MSL
+DP 42:00:00 N 117:00:00 W
+DP 41:20:00 N 117:00:00 W
+DP 41:20:00 N 117:15:00 W
+DP 41:47:00 N 117:46:00 W
+DP 42:00:00 N 117:44:38 W
+DP 42:00:00 N 117:00:00 W
+*
+* >> SADDLE B MOA, OR <<
+AC Q
+SB 0,0,0
+AN SADDLE B INT BY NOTAM
+AL 8000 MSL
+AH 17999 MSL
+DP 42:52:29 N 117:35:03 W
+DP 42:49:59 N 117:38:03 W
+DP 42:46:59 N 117:51:03 W
+DP 43:21:29 N 118:35:03 W
+DP 43:29:59 N 118:25:33 W
+DP 43:29:59 N 117:35:03 W
+DP 42:52:29 N 117:35:03 W
+*
+*                                End of the data                                

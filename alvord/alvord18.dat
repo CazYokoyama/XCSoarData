@@ -1,0 +1,70 @@
+** ------------ Alvord Desert, OR        30Jun18 ------------
+**++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**                  Control Points for Alvord Desert, Oregon                   +
+**                                                                             +
+**                       Willamette Valley Soaring Club                        +
+**                                                                             +
+**                       Contributed by Steve Mason 'DZ'                       +
+**                                                                             +
+**                     Contribution date was 28 June 2018                      +
+**              File created Saturday, 30 June 2018 at 07:29 GMT               +
+**         Available from the Worldwide Soaring Turnpoint Exchange at          +
+**                            http://soaringweb.org/TP                         +
+**                 or http://soaring.guenther-eichhorn.com/TP                  +
+**                     or http://soaring.geichhorn.com/TP                      +
+**                     or http://serkowski.com/soaring/TP                      +
+**                    or http://soaring.silentflight.ca/TP                     +
+**                       or http://soaring.gahsys.com/TP                       +
+**                                                                             +
+**                           Magnetic variation: 20E                           +
+**                                                                             +
+**                            Time zone: US/Pacific                            +
+**         Summer offset from GMT is -7:00, and in Winter it is -8:00          +
+**                                                                             +
+**            Comment is control point description where available             +
+**                                                                             +
+**                      UNOFFICIAL, USE AT YOUR OWN RISK                       +
+**                                                                             +
+**          Do not use for navigation, for flight verification only.           +
+**                                                                             +
+**      Always consult the relevant publications for current and correct       +
+**  information. This service is provided free of charge with no warrantees,   +
+**                            expressed or implied.                            +
+**                        User assumes all risk of use.                        +
+**                                                                             +
+**++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+** *************************** Starting Control Points **************************
+1,42:36:00N,118:29:00W,4300F,T,AlvDst      ,            
+2,42:42:30N,118:12:30W,4236F,T,ALV1KWV     ,            
+3,42:32:30N,118:00:00W,4192F,T,ALV2KWV     ,            
+4,43:02:00N,118:15:00W,5272F,T,ALV2KN      ,            
+5,43:06:00N,118:57:00W,4519F,T,ALV3KE      ,            
+6,42:24:00N,118:05:30W,4514F,T,ALVEast     ,            
+7,42:39:00N,118:21:00W,4105F,T,ALVNorth    ,            
+8,42:29:57N,118:22:02W,4523F,T,ALVRAST     ,            
+9,42:39:00N,118:59:00W,4576F,AT,RRngSpgs    ,,R10,,RWwdth
+10,42:35:36N,118:31:48W,4530F,T,ALVest      ,            
+11,42:22:30N,118:29:30W,4068F,T,ALVSouth    ,            
+12,43:18:29N,117:53:40W,3362F,AT,CrwlyRanch  ,,78R,RWwdth:
+13,42:20:00N,118:39:00W,4210F,AT,Fields      ,,2G4,RWwdth:
+14,42:38:30N,118:34:30W,9733F,T,SteensMt    ,            
+15,43:18:09N,118:41:08W,18000F,T,AWA1        ,            
+16,42:43:23N,117:56:51W,18000F,T,AWA2        ,            
+17,42:25:13N,117:49:08W,18000F,T,AWA3        ,            
+18,41:52:13N,117:52:48W,18000F,T,AWA4        ,            
+19,41:53:14N,118:45:04W,18000F,T,AWA5        ,            
+20,42:21:55N,118:37:09W,18000F,T,AWA6        ,            
+21,42:47:09N,118:37:07W,18000F,T,AWA7        ,            
+22,43:01:42N,118:46:09W,18000F,T,AWA8        ,            
+23,43:01:42N,118:46:09W,18000F,T,AWB1        ,            
+24,42:47:09N,118:37:07W,18000F,T,AWB2        ,            
+25,42:21:55N,118:37:09W,18000F,T,AWB3        ,            
+26,41:53:14N,118:45:04W,18000F,T,AWB4        ,            
+27,41:53:40N,119:06:53W,18000F,T,AWB5        ,            
+28,41:57:30N,118:38:00W,4202F,AT,Denio       ,E85,,RWwdth:
+29,42:50:30N,117:37:30W,3387F,AT,Romesvc     ,0R6,,RWwdth:
+30,42:31:41N,118:31:32W,4000F,HSFTA,ALVBASE     ,18/36       
+31,43:01:00N,118:15:30W,0F,T,ALVORD2KN   ,            
+32,42:42:12N,118:47:00W,0F,T,Alvord200W  ,            
+33,42:14:30N,118:27:00W,0F,T,Alv200ks    ,            
+

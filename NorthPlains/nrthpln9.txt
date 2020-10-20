@@ -1,0 +1,286 @@
+*>                      Airspace for North Plains, Oregon                      <
+*>                                                                             <
+*>                         Data courtesy of Lynn Alley                         <
+*>                                                                             <
+*>             File created on Tuesday, 21 April 2009 at 07:55 GMT             <
+*>                                                                             <
+*> US AIRSPACE INFORMATION FROM NASR DATA EFFECTIVE 03/12/2009                 <
+*> UNOFFICAL DATA (NOT FOR NAVIGATION)                                         <
+*>                                                                             <
+*> The information in this file is composed of computed approximations of the  <
+*> arcs and lines that make up various airspace boundaries, which have been    <
+*> derived from lists of points along those boundaries.  The point data has    <
+*> been taken from the Federal Aviation Administration National Airspace       <
+*> System Resource (NASR) files as published by the National Flight Data       <
+*> Center.  Errors in the computed positions of the boundaries themselves will <
+*> generally be less than 300 feet (although errors in the estimated positions <
+*> of arc center points and radii will be much larger); however, any of the    <
+*> following factors may cause errors to be many times greater:                <
+*>                                                                             <
+*>   1.  Errors in the NASR point data;                                        <
+*>   2.  Cases involving irregularly shaped boundaries, such as those formed   <
+*>       by rivers and roads, etc.;                                            <
+*>   3.  Cases where arcs form the boundaries of MOAs, Alert areas, or         <
+*>       Restricted or Prohibited airspace (due to imprecise descriptions of   <
+*>       such boundaries in the NASR files); and                               <
+*>   4.  Errors in the methods or programs that are used to compute the        <
+*>       approximations.                                                       <
+*>                                                                             <
+*> Altitude information for the ceilings and floors of special use airspace    <
+*> contained in these files is unreliable due to the imprecise, natural-       <
+*> language encoding of this information in the source NASR data.  The same is <
+*> true for time-of-use information.  Always refer to official sources, such   <
+*> as current sectional charts, for authoritative information.                 <
+*>                                                                             <
+*> Note that the software used to produce the approximations contained herein  <
+*> has not been certified for navigational use -- CONSEQUENTLY, THIS           <
+*> INFORMATION SHOULD NOT BE RELIED UPON FOR NAVIGATION.  Use of this          <
+*> information for any other purpose is solely at the user's risk.  This       <
+*> information is provided free of charge.  No warranty, expressed or implied, <
+*> as to the accuracy or suitability of this information for any use is        <
+*> provided.                                                                   <
+*>                                                                             <
+*>                                                                             <
+*> ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ End of the header ^^^^^^^^^^^^^^^^^^^^^^^^^^^^<
+* >> DOLPHIN NORTH <<
+AC Q
+SB 255,150,40
+AN DOLPHIN NORTH 0800-1600 DAILY, OTHER TIMES BY NOTAM
+AL 11000 MSL
+AH FL180
+DP 44:13:00 N 124:23:30 W
+DP 44:21:00 N 124:07:00 W
+DP 44:21:00 N 123:37:00 W
+DP 42:10:00 N 123:37:00 W
+DP 42:10:00 N 124:39:00 W
+DP 42:14:50 N 124:42:08 W
+DP 42:23:04 N 124:45:08 W
+DP 42:31:17 N 124:44:29 W
+DP 42:36:10 N 124:44:17 W
+DP 42:41:51 N 124:50:09 W
+DP 42:51:50 N 124:53:29 W
+DP 42:59:04 N 124:47:25 W
+DP 43:08:40 N 124:45:16 W
+DP 43:22:57 N 124:43:30 W
+DP 43:35:40 N 124:36:16 W
+DP 43:53:17 N 124:26:52 W
+DP 44:13:00 N 124:23:30 W
+*
+* >> EUGENE CLASS D <<
+AC D
+SB 0,255,0
+AN EUGENE CLASS D
+AL SFC
+AH 2900 MSL
+V X=44:07:18 N 123:13:07 W
+DC 4.60 
+*
+* >> MEDFORD CLASS D <<
+AC D
+SB 0,255,0
+AN MEDFORD CLASS D
+AL SFC
+AH 3800 MSL
+V X=42:22:20 N 122:52:21 W
+DC 4.10 
+*
+* >> PORTLAND-HILLSBORO CLASS D <<
+AC D
+SB 0,255,0
+AN PORTLAND-HILLSBORO CLASS D
+AL SFC
+AH 2700 MSL
+V X=45:32:25 N 122:56:59 W
+DC 4.20 
+*
+* >> PORTLAND INTL AIRPORT CLASS C <<
+AC C
+SB 0,150,255
+AN PORTLAND INTL AIRPORT CLASS C
+AL SFC
+AH 4000 MSL
+DP 45:39:20 N 122:31:36 W
+DP 45:38:19 N 122:31:41 W
+V X=45:37:19 N 122:31:45 W
+V D=-
+DB 45:38:19 N 122:31:41 W, 45:37:04 N 122:30:23 W
+DP 45:36:49 N 122:29:04 W
+V X=45:35:18 N 122:35:51 W
+V D=+
+DB 45:36:49 N 122:29:04 W, 45:31:13 N 122:39:55 W
+DP 45:31:36 N 122:40:03 W
+DP 45:32:10 N 122:40:36 W
+DP 45:32:34 N 122:41:14 W
+DP 45:32:51 N 122:41:19 W
+DP 45:32:57 N 122:41:32 W
+DP 45:33:37 N 122:42:01 W
+DP 45:34:03 N 122:42:44 W
+DP 45:35:03 N 122:42:58 W
+V X=45:35:19 N 122:35:47 W
+V D=+
+DB 45:35:03 N 122:42:58 W, 45:37:56 N 122:41:56 W
+DP 45:37:24 N 122:40:50 W
+DP 45:36:46 N 122:39:07 W
+DP 45:36:34 N 122:38:20 W
+DP 45:36:43 N 122:37:31 W
+DP 45:36:52 N 122:37:09 W
+DP 45:37:30 N 122:37:24 W
+DP 45:40:04 N 122:38:07 W
+V X=45:35:21 N 122:35:51 W
+V D=+
+DB 45:40:04 N 122:38:07 W, 45:39:20 N 122:31:36 W
+*
+* >> PORTLAND INTL AIRPORT CLASS C <<
+AC C
+SB 0,150,255
+AN PORTLAND INTL AIRPORT CLASS C
+AL 1100 MSL
+AH 4000 MSL
+DP 45:38:02 N 122:41:50 W
+V X=45:35:20 N 122:35:50 W
+V D=+
+DB 45:38:02 N 122:41:50 W, 45:40:04 N 122:38:07 W
+DP 45:37:30 N 122:37:24 W
+DP 45:36:52 N 122:37:09 W
+DP 45:36:43 N 122:37:31 W
+DP 45:36:34 N 122:38:20 W
+DP 45:36:46 N 122:39:07 W
+DP 45:37:45 N 122:41:38 W
+DP 45:37:56 N 122:41:56 W
+DP 45:38:02 N 122:41:50 W
+*
+* >> PORTLAND INTL AIRPORT CLASS C <<
+AC C
+SB 0,150,255
+AN PORTLAND INTL AIRPORT CLASS C
+AL 2000 MSL
+AH 4000 MSL
+DP 45:40:19 N 122:35:22 W
+DP 45:45:18 N 122:34:52 W
+V X=45:35:20 N 122:35:53 W
+V D=+
+DB 45:45:18 N 122:34:52 W, 45:34:47 N 122:21:38 W
+DP 45:35:04 N 122:28:45 W
+V X=45:35:19 N 122:36:00 W
+V D=-
+DB 45:35:04 N 122:28:45 W, 45:36:49 N 122:29:04 W
+DP 45:37:04 N 122:30:23 W
+V X=45:37:19 N 122:31:45 W
+V D=+
+DB 45:37:04 N 122:30:23 W, 45:38:19 N 122:31:41 W
+DP 45:39:20 N 122:31:36 W
+V X=45:35:19 N 122:35:52 W
+V D=-
+DB 45:39:20 N 122:31:36 W, 45:40:19 N 122:35:22 W
+*
+* >> PORTLAND INTL AIRPORT CLASS C <<
+AC C
+SB 0,150,255
+AN PORTLAND INTL AIRPORT CLASS C
+AL 1700 MSL
+AH 4000 MSL
+DP 45:34:47 N 122:21:38 W
+V X=45:35:17 N 122:35:52 W
+V D=+
+DB 45:34:47 N 122:21:38 W, 45:25:43 N 122:39:46 W
+DP 45:30:31 N 122:37:49 W
+V X=45:35:18 N 122:35:51 W
+V D=-
+DB 45:30:31 N 122:37:49 W, 45:35:04 N 122:28:45 W
+DP 45:34:47 N 122:21:38 W
+*
+* >> PORTLAND INTL AIRPORT CLASS C <<
+AC C
+SB 0,150,255
+AN PORTLAND INTL AIRPORT CLASS C
+AL 2300 MSL
+AH 4000 MSL
+DP 45:25:45 N 122:40:00 W
+V X=45:35:18 N 122:35:48 W
+V D=+
+DB 45:25:45 N 122:40:00 W, 45:34:58 N 122:50:05 W
+DP 45:35:09 N 122:42:58 W
+DP 45:34:06 N 122:42:45 W
+DP 45:34:03 N 122:42:44 W
+DP 45:33:37 N 122:42:01 W
+DP 45:32:57 N 122:41:32 W
+DP 45:32:51 N 122:41:19 W
+DP 45:32:34 N 122:41:14 W
+DP 45:32:02 N 122:40:26 W
+DP 45:31:29 N 122:39:59 W
+DP 45:31:13 N 122:39:54 W
+DP 45:31:08 N 122:39:43 W
+V X=45:35:19 N 122:35:49 W
+V D=-
+DB 45:31:08 N 122:39:43 W, 45:30:31 N 122:37:49 W
+DP 45:25:43 N 122:39:46 W
+DP 45:25:45 N 122:40:00 W
+*
+* >> PORTLAND INTL AIRPORT CLASS C <<
+AC C
+SB 0,150,255
+AN PORTLAND INTL AIRPORT CLASS C
+AL 1800 MSL
+AH 4000 MSL
+DP 45:34:58 N 122:50:05 W
+V X=45:35:20 N 122:35:49 W
+V D=+
+DB 45:34:58 N 122:50:05 W, 45:45:18 N 122:34:52 W
+DP 45:40:19 N 122:35:22 W
+V X=45:35:20 N 122:35:50 W
+V D=-
+DB 45:40:19 N 122:35:22 W, 45:35:09 N 122:42:58 W
+DP 45:34:58 N 122:50:05 W
+*
+* >> PORTLAND-TROUTDALE CLASS D <<
+AC D
+SB 0,255,0
+AN PORTLAND-TROUTDALE CLASS D
+AL SFC
+AH 2500 MSL
+DP 45:35:15 N 122:28:44 W
+V X=45:32:57 N 122:24:04 W
+V D=+
+DB 45:35:15 N 122:28:44 W, 45:32:49 N 122:29:41 W
+V X=45:35:19 N 122:35:53 W
+V D=-
+DB 45:32:49 N 122:29:41 W, 45:35:15 N 122:28:44 W
+*
+* >> REDMOND CLASS D <<
+AC D
+SB 0,255,0
+AN REDMOND CLASS D
+AL SFC
+AH 5600 MSL
+V X=44:15:14 N 121:09:00 W
+DC 5.10 
+*
+* >> SALEM CLASS D <<
+AC D
+SB 0,255,0
+AN SALEM CLASS D
+AL SFC
+AH 2700 MSL
+V X=44:54:34 N 123:00:09 W
+DC 4.00 
+*
+* >> VANCOUVER CLASS D <<
+AC D
+SB 0,255,0
+AN VANCOUVER CLASS D
+AL SFC
+AH 1100 MSL
+DP 45:38:02 N 122:41:50 W
+V X=45:35:20 N 122:35:50 W
+V D=+
+DB 45:38:02 N 122:41:50 W, 45:40:04 N 122:38:07 W
+DP 45:37:30 N 122:37:24 W
+DP 45:36:52 N 122:37:09 W
+DP 45:36:43 N 122:37:31 W
+DP 45:36:34 N 122:38:20 W
+DP 45:36:46 N 122:39:07 W
+DP 45:37:45 N 122:41:38 W
+DP 45:37:56 N 122:41:56 W
+DP 45:38:02 N 122:41:50 W
+*
+*                                End of the data                                

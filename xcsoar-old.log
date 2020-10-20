@@ -1,0 +1,37 @@
+[2020-10-18T19:28:38Z] Free storage 2675916 KB
+[2020-10-18T19:28:38Z] Starting XCSoar XCSoar v6.8.17-Linux
+[2020-10-18T19:28:39Z] Display dpi=96,95
+[2020-10-18T19:28:39Z] OpenGL: npot=1 vbo=1 fbo=1 stencil=0x84f9
+[2020-10-18T19:28:39Z] Initialise fonts
+[2020-10-18T19:28:39Z] Startup dialog
+[2020-10-18T19:28:39Z] Loading profiles
+[2020-10-18T19:28:39Z] Loaded profile from /home/pi/.xcsoar/default.prf
+[2020-10-18T19:28:40Z] Loading input events file
+[2020-10-18T19:28:40Z] OpenTerrain
+[2020-10-18T19:28:40Z] Loading Topography File...
+[2020-10-18T19:28:40Z] ReadWaypoints
+[2020-10-18T19:28:40Z] Start at terrain center
+[2020-10-18T19:28:40Z] RASP load
+[2020-10-18T19:28:40Z] ReadAirspace
+[2020-10-18T19:28:40Z] Failed to open airspace file: /home/pi/.xcsoar/NorthPlains/NorthPlains.xcm/airspace.txt
+[2020-10-18T19:28:40Z] Register serial devices
+[2020-10-18T19:28:40Z] Opening device /dev/ttyS0
+[2020-10-18T19:28:40Z] ProgramStarted
+[2020-10-18T19:28:40Z] Free storage 2675916 KB
+[2020-10-18T19:29:34Z] Saving profiles
+[2020-10-18T19:29:34Z] Saving profile to /home/pi/.xcsoar/default.prf
+[2020-10-18T19:29:34Z] Opening device /dev/ttyACM0
+[2020-10-18T19:30:28Z] OpenFLARMDetails
+[2020-10-18T20:02:15Z] Entering shutdown...
+[2020-10-18T20:02:15Z] Free storage 2675904 KB
+[2020-10-18T20:02:15Z] Saving profiles
+[2020-10-18T20:02:15Z] Saving profile to /home/pi/.xcsoar/default.prf
+[2020-10-18T20:02:15Z] Stop threads
+[2020-10-18T20:02:15Z] Waiting for calculation thread
+[2020-10-18T20:02:15Z] delete MapWindow
+[2020-10-18T20:02:15Z] Save default task
+[2020-10-18T20:02:15Z] Stop COM devices
+[2020-10-18T20:02:15Z] Close Progress Dialog
+[2020-10-18T20:02:15Z] Close Windows - main
+[2020-10-18T20:02:15Z] Free storage 2675904 KB
+[2020-10-18T20:02:15Z] Finished shutdown

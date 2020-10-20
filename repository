@@ -1,0 +1,5271 @@
+name=maun_10.txt
+displayname=Maun
+uri=http://soaringweb.org/TP/Maun/maun_10.txt
+type=airspace
+area=Africa
+subarea=Botswana
+
+name=ouarza02.txt
+displayname=Ouarzazate
+uri=http://soaringweb.org/TP/Ouarzazate/ouarza02.txt
+type=airspace
+area=Africa
+subarea=Morocco
+
+name=nmb_rprt.txt
+displayname=Namibian Airports
+uri=http://soaringweb.org/TP/Namibia_airports/nmb_rprt.txt
+type=airspace
+area=Africa
+subarea=Regional Collection, there is no home field
+
+name=bttrwsr0.txt
+displayname=Bitterwasser Lodge and Flying Center
+uri=http://soaringweb.org/TP/Bitterwasser/bttrwsr0.txt
+type=airspace
+area=Africa
+subarea=Namibia
+
+name=kiripotb.txt
+displayname=Kiripotib
+uri=http://soaringweb.org/TP/Kiripotib/kiripotb.txt
+type=airspace
+area=Africa
+subarea=Namibia
+
+name=pokweni.txt
+displayname=Pokweni
+uri=http://soaringweb.org/TP/Pokweni/pokweni.txt
+type=airspace
+area=Africa
+subarea=Namibia
+
+name=safrica9.txt
+displayname=South Africa
+uri=http://soaringweb.org/TP/Safrica/safrica9.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=blmfntn8.txt
+displayname=Bloemfontein ( New Tempe )
+uri=http://soaringweb.org/TP/Bloemfontein/blmfntn8.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=safric49.txt
+displayname=South Africa ( New Tempe, 425#points )
+uri=http://soaringweb.org/TP/Safrica_425/safric49.txt
+type=airspace
+area=Africa
+subarea=South Africa ( New Tempe, 425#points )
+
+name=safric29.txt
+displayname=South Africa ( New Tempe, 250#points )
+uri=http://soaringweb.org/TP/Safrica_250/safric29.txt
+type=airspace
+area=Africa
+subarea=South Africa ( New Tempe, 250#points )
+
+name=douglas.txt
+displayname=Douglas
+uri=http://soaringweb.org/TP/Douglas/douglas.txt
+type=airspace
+area=Africa
+subarea=Northern Cape, South Africa
+
+name=drknsbrg.txt
+displayname=Drakensberg
+uri=http://soaringweb.org/TP/Drakensberg/drknsbrg.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=gariep03.txt
+displayname=Gariep
+uri=http://soaringweb.org/TP/Gariep/gariep03.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=ggc_08.txt
+displayname=Hennenman ( Goldfields Gliding Club )
+uri=http://soaringweb.org/TP/Hennenman/ggc_08.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=jknats.txt
+displayname=Jan-Kempdorp ( 93 Ammunition Depot )
+uri=http://soaringweb.org/TP/Jknats/jknats.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=mafikg01.txt
+displayname=Mafikeng ( Mmabatho )
+uri=http://soaringweb.org/TP/Mafikeng/mafikg01.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=gautng04.txt
+displayname=Magaliesburg
+uri=http://soaringweb.org/TP/Magalies/gautng04.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=potchfs7.txt
+displayname=Potchefstroom
+uri=http://soaringweb.org/TP/Potchefstroom/potchfs7.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=thabazmb.txt
+displayname=Thabazimbi
+uri=http://soaringweb.org/TP/Thabazimbi/thabazmb.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=tswalu11.txt
+displayname=Tswalu
+uri=http://soaringweb.org/TP/Tswalu/tswalu11.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=cap2017b.txt
+displayname=Worcester ( Cape Gliding Club )
+uri=http://soaringweb.org/TP/Worcester/cap2017b.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=wrcst_gp.txt
+displayname=Worcester ( Grand Prix )
+uri=http://soaringweb.org/TP/Worcester_gp/wrcst_gp.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=welkom14.txt
+displayname=Welkom
+uri=http://soaringweb.org/TP/Welkom/welkom14.txt
+type=airspace
+area=Africa
+subarea=South Africa
+
+name=austrl01.txt
+displayname=Australia
+uri=http://soaringweb.org/TP/Australia/austrl01.txt
+type=airspace
+area=Australasia
+subarea=Australia
+
+name=austairp.txt
+displayname=Australian Airports
+uri=http://soaringweb.org/TP/Australia_airports/austairp.txt
+type=airspace
+area=Australasia
+subarea=Australian Airports
+
+name=bathrst0.txt
+displayname=Bathurst
+uri=http://soaringweb.org/TP/Bathurst/bathrst0.txt
+type=airspace
+area=Australasia
+subarea=New South Wales, Australia
+
+name=camden.txt
+displayname=Camden
+uri=http://soaringweb.org/TP/Camden/camden.txt
+type=airspace
+area=Australasia
+subarea=NSW
+
+name=bunyan.txt
+displayname=Cooma
+uri=http://soaringweb.org/TP/Bunyan/bunyan.txt
+type=airspace
+area=Australasia
+subarea=Australia [Bunyan Airfield}
+
+name=corowa10.txt
+displayname=Corowa
+uri=http://soaringweb.org/TP/Corowa/corowa10.txt
+type=airspace
+area=Australasia
+subarea=Australia
+
+name=glgng_04.txt
+displayname=Gulgong
+uri=http://soaringweb.org/TP/Gulgong/glgng_04.txt
+type=airspace
+area=Australasia
+subarea=New South Wales, Australia
+
+name=lkeepit5.txt
+displayname=Lake Keepit
+uri=http://soaringweb.org/TP/Keepit/lkeepit5.txt
+type=airspace
+area=Australasia
+subarea=NSW
+
+name=lkkeptl5.txt
+displayname=Lake Keepit
+uri=http://soaringweb.org/TP/Keepit_local/lkkeptl5.txt
+type=airspace
+area=Australasia
+subarea=NSW
+
+name=lkptair0.txt
+displayname=Lake Keepit ( Control Points )
+uri=http://soaringweb.org/TP/Lk_Keepit_Comp10_cp/lkptair0.txt
+type=airspace
+area=Australasia
+subarea=NSW
+
+name=lkptair0.txt
+displayname=Lake Keepit ( All Waypoints )
+uri=http://soaringweb.org/TP/Lk_Keepit_Comp10_all/lkptair0.txt
+type=airspace
+area=Australasia
+subarea=NSW
+
+name=kentucky.txt
+displayname=Kentucky
+uri=http://soaringweb.org/TP/Kentucky/kentucky.txt
+type=airspace
+area=Australasia
+subarea=NSW
+
+name=narr_rec.txt
+displayname=Narromine ( Records )
+uri=http://soaringweb.org/TP/Narromine_xc/narr_rec.txt
+type=airspace
+area=Australasia
+subarea=NSW
+
+name=narmngp8.txt
+displayname=Narromine ( Grand Prix )
+uri=http://soaringweb.org/TP/Narromine_gp/narmngp8.txt
+type=airspace
+area=Australasia
+subarea=NSW
+
+name=narromn2.txt
+displayname=Narromine
+uri=http://soaringweb.org/TP/Narromine/narromn2.txt
+type=airspace
+area=Australasia
+subarea=NSW
+
+name=narromj8.txt
+displayname=Narromine ( Joeyglide )
+uri=http://soaringweb.org/TP/Narromine_joey/narromj8.txt
+type=airspace
+area=Australasia
+subarea=NSW
+
+name=temoraxc.txt
+displayname=Temora ( Cross-Country )
+uri=http://soaringweb.org/TP/Temora_cross_country/temoraxc.txt
+type=airspace
+area=Australasia
+subarea=NSW
+
+name=tocumal2.txt
+displayname=Tocumwal ( 2012 Multi-Class Nationals )
+uri=http://soaringweb.org/TP/Tocumwal/tocumal2.txt
+type=airspace
+area=Australasia
+subarea=NSW
+
+name=hntrvly1.txt
+displayname=Warkworth
+uri=http://soaringweb.org/TP/Hunter_valley/hntrvly1.txt
+type=airspace
+area=Australasia
+subarea=New South Wales, Australia
+
+name=bondspr6.txt
+displayname=Bond Springs
+uri=http://soaringweb.org/TP/BondSprings/bondspr6.txt
+type=airspace
+area=Australasia
+subarea=Northern Territory, Australia
+
+name=boonah7b.txt
+displayname=Boonah
+uri=http://soaringweb.org/TP/Boonah/boonah7b.txt
+type=airspace
+area=Australasia
+subarea=Queensland
+
+name=pln_srng.txt
+displayname=Plain Soaring
+uri=http://soaringweb.org/TP/Plain_soaring/pln_srng.txt
+type=airspace
+area=Australasia
+subarea=Dalby, Queensland
+
+name=cabooltr.txt
+displayname=Caboolture
+uri=http://soaringweb.org/TP/Caboolture/cabooltr.txt
+type=airspace
+area=Australasia
+subarea=Queensland
+
+name=chrtwrs6.txt
+displayname=Charters Towers
+uri=http://soaringweb.org/TP/Charters_towers/chrtwrs6.txt
+type=airspace
+area=Australasia
+subarea=Queensland
+
+name=chnchll0.txt
+displayname=Chinchilla
+uri=http://soaringweb.org/TP/Chinchilla/chnchll0.txt
+type=airspace
+area=Australasia
+subarea=Queensland
+
+name=clermont.txt
+displayname=Clermont
+uri=http://soaringweb.org/TP/Clermont/clermont.txt
+type=airspace
+area=Australasia
+subarea=Queensland
+
+name=dalby_10.txt
+displayname=Dalby
+uri=http://soaringweb.org/TP/Dalby/dalby_10.txt
+type=airspace
+area=Australasia
+subarea=Queensland
+
+name=ddsc_16.txt
+displayname=Darling Downs ( Jondaryan )
+uri=http://soaringweb.org/TP/Darling/ddsc_16.txt
+type=airspace
+area=Australasia
+subarea=Queensland
+
+name=cqgc.txt
+displayname=Dixalea ( CQGC )
+uri=http://soaringweb.org/TP/CQGC/cqgc.txt
+type=airspace
+area=Australasia
+subarea=Queensland
+
+name=gondwnd7.txt
+displayname=Goondiwindi
+uri=http://soaringweb.org/TP/Goondiwindi/gondwnd7.txt
+type=airspace
+area=Australasia
+subarea=Queensland
+
+name=kry2016a.txt
+displayname=Kingaroy
+uri=http://soaringweb.org/TP/Kingaroy/kry2016a.txt
+type=airspace
+area=Australasia
+subarea=Queensland
+
+name=kngry167.txt
+displayname=Kingaroy
+uri=http://soaringweb.org/TP/Kingaroy_all/kngry167.txt
+type=airspace
+area=Australasia
+subarea=Queensland
+
+name=sth_strl.txt
+displayname=South Australia
+uri=http://soaringweb.org/TP/South_australia/sth_strl.txt
+type=airspace
+area=Australasia
+subarea=Regional Collection, there is no home field
+
+name=balaklav.txt
+displayname=Balaklava
+uri=http://soaringweb.org/TP/Balaklava/balaklav.txt
+type=airspace
+area=Australasia
+subarea=South Australia
+
+name=brdrtwn4.txt
+displayname=Bordertown
+uri=http://soaringweb.org/TP/Bordertown/brdrtwn4.txt
+type=airspace
+area=Australasia
+subarea=South Australia
+
+name=gawler8a.txt
+displayname=Gawler
+uri=http://soaringweb.org/TP/Gawler/gawler8a.txt
+type=airspace
+area=Australasia
+subarea=South Australia
+
+name=gawlerjy.txt
+displayname=Gawler
+uri=http://soaringweb.org/TP/Gawler_juniors/gawlerjy.txt
+type=airspace
+area=Australasia
+subarea=South Australia [JoeyGlide}
+
+name=lochiel.txt
+displayname=Lochiel
+uri=http://soaringweb.org/TP/Lochiel/lochiel.txt
+type=airspace
+area=Australasia
+subarea=SA, Australia
+
+name=renmark.txt
+displayname=Renmark
+uri=http://soaringweb.org/TP/Renmark/renmark.txt
+type=airspace
+area=Australasia
+subarea=Australia
+
+name=waikrl9a.txt
+displayname=Waikerie ( Local )
+uri=http://soaringweb.org/TP/Waikerie_local/waikrl9a.txt
+type=airspace
+area=Australasia
+subarea=South Australia
+
+name=ararat6a.txt
+displayname=Ararat
+uri=http://soaringweb.org/TP/Ararat/ararat6a.txt
+type=airspace
+area=Australasia
+subarea=Australia
+
+name=benalla9.txt
+displayname=Benalla ( Complete )
+uri=http://soaringweb.org/TP/Benalla_complete/benalla9.txt
+type=airspace
+area=Australasia
+subarea=Victoria, Australia
+
+name=wgc_2017.txt
+displayname=Benalla ( 2013 Nationals )
+uri=http://soaringweb.org/TP/Benalla_restricted/wgc_2017.txt
+type=airspace
+area=Australasia
+subarea=Victoria, Australia
+
+name=hrshmw8a.txt
+displayname=Horsham
+uri=http://soaringweb.org/TP/Horsham/hrshmw8a.txt
+type=airspace
+area=Australasia
+subarea=Victoria, Australia
+
+name=bendigo6.txt
+displayname=Bendigo ( Raywood )
+uri=http://soaringweb.org/TP/Bendigo/bendigo6.txt
+type=airspace
+area=Australasia
+subarea=VSA State Comp, 2014
+
+name=bevrly14.txt
+displayname=Beverley
+uri=http://soaringweb.org/TP/Beverley/bevrly14.txt
+type=airspace
+area=Australasia
+subarea=Western Australia
+
+name=cunderdn.txt
+displayname=Cunderdin
+uri=http://soaringweb.org/TP/Cunderdin/cunderdn.txt
+type=airspace
+area=Australasia
+subarea=Western Australia
+
+name=narrogn7.txt
+displayname=Narrogin
+uri=http://soaringweb.org/TP/Narrogin/narrogn7.txt
+type=airspace
+area=Australasia
+subarea=Western Australia
+
+name=megido.txt
+displayname=Megido
+uri=http://soaringweb.org/TP/Megido/megido.txt
+type=airspace
+area=Australasia
+subarea=Israel
+
+name=pune.txt
+displayname=Pune
+uri=http://soaringweb.org/TP/Pune/pune.txt
+type=airspace
+area=Australasia
+subarea=India
+
+name=sekiyado.txt
+displayname=Sekiyado
+uri=http://soaringweb.org/TP/Sekiyado/sekiyado.txt
+type=airspace
+area=Australasia
+subarea=Japan
+
+name=drury_18.txt
+displayname=Drury
+uri=http://soaringweb.org/TP/Drury/drury_18.txt
+type=airspace
+area=Australasia
+subarea=New Zealand
+
+name=feilding.txt
+displayname=Fielding
+uri=http://soaringweb.org/TP/Feilding/feilding.txt
+type=airspace
+area=Australasia
+subarea=Fielding
+
+name=mastertn.txt
+displayname=Masterton
+uri=http://soaringweb.org/TP/Masterton/mastertn.txt
+type=airspace
+area=Australasia
+subarea=New Zealand
+
+name=matamat7.txt
+displayname=Matamata
+uri=http://soaringweb.org/TP/Matamata/matamat7.txt
+type=airspace
+area=Australasia
+subarea=New Zealand
+
+name=matamt18.txt
+displayname=Matamata ( Competitions )
+uri=http://soaringweb.org/TP/Matamata_comp/matamt18.txt
+type=airspace
+area=Australasia
+subarea=New Zealand
+
+name=matakaim.txt
+displayname=Matamata ( Kaimai Challenge )
+uri=http://soaringweb.org/TP/Matamata_kaimai/matakaim.txt
+type=airspace
+area=Australasia
+subarea=New Zealand
+
+name=parapa01.txt
+displayname=Paraparaumu
+uri=http://soaringweb.org/TP/Paraparaumu/parapa01.txt
+type=airspace
+area=Australasia
+subarea=New Zealand
+
+name=puhipuh4.txt
+displayname=Puhipuhi
+uri=http://soaringweb.org/TP/Puhipuhi/puhipuh4.txt
+type=airspace
+area=Australasia
+subarea=New Zealand
+
+name=taupo_11.txt
+displayname=Taupo
+uri=http://soaringweb.org/TP/Taupo/taupo_11.txt
+type=airspace
+area=Australasia
+subarea=New Zealand
+
+name=unrthil0.txt
+displayname=Upper Northern Island Landout Sites
+uri=http://soaringweb.org/TP/Upper_north_island/unrthil0.txt
+type=airspace
+area=Australasia
+subarea=New Zealand
+
+name=nlsnlks4.txt
+displayname=Nelson Lakes
+uri=http://soaringweb.org/TP/Nelson_lakes/nlsnlks4.txt
+type=airspace
+area=Australasia
+subarea=New Zealand
+
+name=omarama6.txt
+displayname=Omarama
+uri=http://soaringweb.org/TP/Omarama/omarama6.txt
+type=airspace
+area=Australasia
+subarea=New Zealand
+
+name=omarmgp7.txt
+displayname=Omarama ( Grand Prix 2007 )
+uri=http://soaringweb.org/TP/Omarama_gp/omarmgp7.txt
+type=airspace
+area=Australasia
+subarea=New Zealand
+
+name=alpespcs.txt
+displayname=Alps Landmarks
+uri=http://soaringweb.org/TP/Alpes_pics/alpespcs.txt
+type=airspace
+area=Europe
+subarea=Alps Landmarks
+
+name=as_alpe2.txt
+displayname=French Alps Outlanding Fields
+uri=http://soaringweb.org/TP/AS_alpes/as_alpe2.txt
+type=airspace
+area=Europe
+subarea=French Alps Outlanding Fields
+
+name=buochsfr.txt
+displayname=Buochs
+uri=http://soaringweb.org/TP/Buochs_fr/buochsfr.txt
+type=airspace
+area=Europe
+subarea=Switzerland and the French Alps
+
+name=cvao.txt
+displayname=Alpi Orientali ( Northeast Italian Alps Outlanding Sites )
+uri=http://soaringweb.org/TP/CVAO/cvao.txt
+type=airspace
+area=Europe
+subarea=Alpi Orientali ( Northeast Italian Alps Outlanding Sites )
+
+name=puimssn8.txt
+displayname=Puimoisson
+uri=http://soaringweb.org/TP/Puimoisson/puimssn8.txt
+type=airspace
+area=Europe
+subarea=France et les Alpes
+
+name=buochsch.txt
+displayname=Buochs
+uri=http://soaringweb.org/TP/Buochs_ch/buochsch.txt
+type=airspace
+area=Europe
+subarea=Switzerland and the Swiss Alps
+
+name=austr_03.txt
+displayname=Austria
+uri=http://soaringweb.org/TP/Austria/austr_03.txt
+type=airspace
+area=Europe
+subarea=Austria
+
+name=bregenz.txt
+displayname=Bregenz ( Off field landing sites )
+uri=http://soaringweb.org/TP/Bregenz/bregenz.txt
+type=airspace
+area=Europe
+subarea=Austria
+
+name=dbrsbrg5.txt
+displayname=Dobersberg
+uri=http://soaringweb.org/TP/Dobersberg/dbrsbrg5.txt
+type=airspace
+area=Europe
+subarea=Austria
+
+name=feldk_04.txt
+displayname=Feldkirchen
+uri=http://soaringweb.org/TP/Feldkirchen/feldk_04.txt
+type=airspace
+area=Europe
+subarea=Austria
+
+name=feldkrgp.txt
+displayname=Feldkirchen ( Grand Prix )
+uri=http://soaringweb.org/TP/Feldkirchen_gp/feldkrgp.txt
+type=airspace
+area=Europe
+subarea=Austria
+
+name=mariaz7a.txt
+displayname=Mariazell
+uri=http://soaringweb.org/TP/Mariazell/mariaz7a.txt
+type=airspace
+area=Europe
+subarea=Austria
+
+name=ndrblrn8.txt
+displayname=Nieder#blarn
+uri=http://soaringweb.org/TP/Niederoeblarn/ndrblrn8.txt
+type=airspace
+area=Europe
+subarea=Austria
+
+name=stjohan4.txt
+displayname=St. Johann im Tirol
+uri=http://soaringweb.org/TP/St_johann/stjohan4.txt
+type=airspace
+area=Europe
+subarea=Austria
+
+name=timsdrf6.txt
+displayname=Timmersdorf
+uri=http://soaringweb.org/TP/Timmersdorf/timsdrf6.txt
+type=airspace
+area=Europe
+subarea=Austria
+
+name=wnrnsd12.txt
+displayname=Wiener Neustadt
+uri=http://soaringweb.org/TP/Wiener_neustadt/wnrnsd12.txt
+type=airspace
+area=Europe
+subarea=Austria
+
+name=cc_2002.txt
+displayname=Wiener Neustadt
+uri=http://soaringweb.org/TP/Wiener/cc_2002.txt
+type=airspace
+area=Europe
+subarea=Austria
+
+name=WienerN2.txt
+displayname=Wiener Neustadt
+uri=http://soaringweb.org/TP/Wiener2/WienerN2.txt
+type=airspace
+area=Europe
+subarea=Austria
+
+name=zell_13.txt
+displayname=Zell am See
+uri=http://soaringweb.org/TP/Zell/zell_13.txt
+type=airspace
+area=Europe
+subarea=Austria
+
+name=beker_18.txt
+displayname=Beker Van Vlaanderen/Flanders Soaring Cup
+uri=http://soaringweb.org/TP/Beker/beker_18.txt
+type=airspace
+area=Europe
+subarea=Belgium
+
+name=goetshvn.txt
+displayname=Goetsenhoven
+uri=http://soaringweb.org/TP/Goetsenhoven/goetshvn.txt
+type=airspace
+area=Europe
+subarea=Belgium
+
+name=belgium.txt
+displayname=Laboru
+uri=http://soaringweb.org/TP/Belgium/belgium.txt
+type=airspace
+area=Europe
+subarea=Belgium
+
+name=maubray.txt
+displayname=Maubray
+uri=http://soaringweb.org/TP/Maubray/maubray.txt
+type=airspace
+area=Europe
+subarea=Belgium
+
+name=templou4.txt
+displayname=Namur-Temploux ( EBNM )
+uri=http://soaringweb.org/TP/Temploux/templou4.txt
+type=airspace
+area=Europe
+subarea=Belgian Championship Club Class and Coupe Mosane Internationale, 2004
+
+name=grrdsbrg.txt
+displayname=Geraardsbergen
+uri=http://soaringweb.org/TP/Geraardsbergen/grrdsbrg.txt
+type=airspace
+area=Europe
+subarea=Belgium
+
+name=osijek.txt
+displayname=Osijek
+uri=http://soaringweb.org/TP/Osijek/osijek.txt
+type=airspace
+area=Europe
+subarea=Croatia
+
+name=sinj2017.txt
+displayname=Sinj
+uri=http://soaringweb.org/TP/Split/sinj2017.txt
+type=airspace
+area=Europe
+subarea=Croatia
+
+name=brno.txt
+displayname=Brno
+uri=http://soaringweb.org/TP/Brno/brno.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=dvurkrv7.txt
+displayname=Dvur Kr#lov# nad Labem
+uri=http://soaringweb.org/TP/Dvur_kralove/dvurkrv7.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=dvurkrj.txt
+displayname=Dvur Kr#lov# nad Labem ( PMCR_J 2008 )
+uri=http://soaringweb.org/TP/Dvur_kralove_junior/dvurkrj.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=frydlnt7.txt
+displayname=Fr#dlant nad Ostravic#
+uri=http://soaringweb.org/TP/Frydlant/frydlnt7.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=hvlckv17.txt
+displayname=Havlickuv Brod
+uri=http://soaringweb.org/TP/Havlickuv/hvlckv17.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=hodkov13.txt
+displayname=Hodkovick# nad Mohelkou
+uri=http://soaringweb.org/TP/Hodkovice/hodkov13.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=jaromer.txt
+displayname=Jaromer
+uri=http://soaringweb.org/TP/Jaromer/jaromer.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=krizanv7.txt
+displayname=Krizanov
+uri=http://soaringweb.org/TP/Krizanov/krizanv7.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=kunovice.txt
+displayname=Kunovice
+uri=http://soaringweb.org/TP/Kunovice/kunovice.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=letkov12.txt
+displayname=Letkov
+uri=http://soaringweb.org/TP/Letkov/letkov12.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=mlblsgp7.txt
+displayname=Mlad# Boleslav
+uri=http://soaringweb.org/TP/Mlada_boleslav/mlblsgp7.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=mrvskt17.txt
+displayname=Moravsk# Trebov#
+uri=http://soaringweb.org/TP/Moravska_trebova/mrvskt17.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=most.txt
+displayname=Most
+uri=http://soaringweb.org/TP/Most/most.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=rana2013.txt
+displayname=Ran#-Louny Czech Republic
+uri=http://soaringweb.org/TP/Rana/rana2013.txt
+type=airspace
+area=Europe
+subarea=Ransk# poh#r 2013
+
+name=sumperk7.txt
+displayname=Sumperk
+uri=http://soaringweb.org/TP/Sumperk/sumperk7.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=tabor.txt
+displayname=T#bor
+uri=http://soaringweb.org/TP/Tabor/tabor.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=touzim18.txt
+displayname=Touzim
+uri=http://soaringweb.org/TP/Touzim/touzim18.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=vyskmyt3.txt
+displayname=Vysok# M#to
+uri=http://soaringweb.org/TP/Vysoke_myto/vyskmyt3.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=zbrslv04.txt
+displayname=Zbraslavice
+uri=http://soaringweb.org/TP/Zbraslavice/zbrslv04.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=az_2015.txt
+displayname=Zbraslavice ( AZ Cup )
+uri=http://soaringweb.org/TP/Zbraslavice_pmcr/az_2015.txt
+type=airspace
+area=Europe
+subarea=Czech Republic
+
+name=ridali.txt
+displayname=Ridali
+uri=http://soaringweb.org/TP/Ridali/ridali.txt
+type=airspace
+area=Europe
+subarea=Estonia
+
+name=fnlnds4a.txt
+displayname=Rayskala ( only the 250 points closest to Rayskala from the overall Finland collection )
+uri=http://soaringweb.org/TP/Finland_small/fnlnds4a.txt
+type=airspace
+area=Europe
+subarea=Finland
+
+name=kauhava.txt
+displayname=Kauhava
+uri=http://soaringweb.org/TP/Kauhava/kauhava.txt
+type=airspace
+area=Europe
+subarea=Finland
+
+name=aire_16.txt
+displayname=Aire sur l&apos;Adour
+uri=http://soaringweb.org/TP/Aire/aire_16.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=alpes.txt
+displayname=Southern Alps
+uri=http://soaringweb.org/TP/Alpes/alpes.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=alsace.txt
+displayname=Alsace
+uri=http://soaringweb.org/TP/Alsace/alsace.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=angers14.txt
+displayname=Angers-Marc#
+uri=http://soaringweb.org/TP/Angers/angers14.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=vinvlphr.txt
+displayname=Angers-Marc# ( Vino Volo Pharo, 2007 )
+uri=http://soaringweb.org/TP/Vinovolopharo/vinvlphr.txt
+type=airspace
+area=Europe
+subarea=Vino Volo Pharo, 2007
+
+name=angoulem.txt
+displayname=Angoul#me
+uri=http://soaringweb.org/TP/Angouleme/angoulem.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=arcachon.txt
+displayname=Arcachon
+uri=http://soaringweb.org/TP/Arcachon/arcachon.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=auch_17.txt
+displayname=Auch
+uri=http://soaringweb.org/TP/Auch/auch_17.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=baillea7.txt
+displayname=Bailleau
+uri=http://soaringweb.org/TP/Bailleau/baillea7.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=beynes05.txt
+displayname=Beynes
+uri=http://soaringweb.org/TP/Beynes/beynes05.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=blois.txt
+displayname=Blois
+uri=http://soaringweb.org/TP/Blois/blois.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=b_r2001.txt
+displayname=Blois and Romilly
+uri=http://soaringweb.org/TP/Blois_Romilly/b_r2001.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=bourges.txt
+displayname=Bourges
+uri=http://soaringweb.org/TP/Bourges/bourges.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=bzh2018.txt
+displayname=Bretagne France - Unnumbered ( Rennes Saint-Sulpice )
+uri=http://soaringweb.org/TP/Bretagne/bzh2018.txt
+type=airspace
+area=Europe
+subarea=Championnats Bretagne Grand Ouest 2012
+
+name=brtngn16.txt
+displayname=Bretagne France - Numbered ( Rennes Saint-Sulpice )
+uri=http://soaringweb.org/TP/Bretagne_num/brtngn16.txt
+type=airspace
+area=Europe
+subarea=Championnats Bretagne Grand Ouest 2012
+
+name=brioude1.txt
+displayname=Brioude-Beaumont
+uri=http://soaringweb.org/TP/Brioude/brioude1.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=buno_17.txt
+displayname=Buno-Bonnevaux
+uri=http://soaringweb.org/TP/Buno/buno_17.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=cambrai2.txt
+displayname=Cambrai
+uri=http://soaringweb.org/TP/Cambrai/cambrai2.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=crpntrs6.txt
+displayname=Carpentras
+uri=http://soaringweb.org/TP/Carpentras/crpntrs6.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=challes5.txt
+displayname=Challes les Eaux
+uri=http://soaringweb.org/TP/Challes/challes5.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=chalons5.txt
+displayname=Ch#lons-en-Champagne
+uri=http://soaringweb.org/TP/Chalons/chalons5.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=champals.txt
+displayname=Colmar
+uri=http://soaringweb.org/TP/Colmar/champals.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=copgne5.txt
+displayname=Compi#gne
+uri=http://soaringweb.org/TP/Compiegne/copgne5.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=colmmrs7.txt
+displayname=Coulommiers
+uri=http://soaringweb.org/TP/Coulommiers/colmmrs7.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=dijon_17.txt
+displayname=Dijon
+uri=http://soaringweb.org/TP/Dijon/dijon_17.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=fayence4.txt
+displayname=Fayence
+uri=http://soaringweb.org/TP/Fayence/fayence4.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=france01.txt
+displayname=France
+uri=http://soaringweb.org/TP/France/france01.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=hagenau1.txt
+displayname=Haguenau
+uri=http://soaringweb.org/TP/Haguenau/hagenau1.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=issoudn8.txt
+displayname=Issoudun
+uri=http://soaringweb.org/TP/Issoudun/issoudn8.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=l_mtt_d.txt
+displayname=La Motte du Caire
+uri=http://soaringweb.org/TP/La_motte_du_caire/l_mtt_d.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=laroche6.txt
+displayname=La Roche sur Yon
+uri=http://soaringweb.org/TP/La_roche/laroche6.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=laval.txt
+displayname=Laval Entrammes
+uri=http://soaringweb.org/TP/Laval/laval.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=le_mans.txt
+displayname=Le Mans
+uri=http://soaringweb.org/TP/Le_mans/le_mans.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=lille_18.txt
+displayname=Lille-Marcq
+uri=http://soaringweb.org/TP/Lille/lille_18.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=lyon.txt
+displayname=Lyon-Corbas
+uri=http://soaringweb.org/TP/Lyon/lyon.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=lyon2012.txt
+displayname=Lyon-Corbas
+uri=http://soaringweb.org/TP/Lyon_concours/lyon2012.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=luchon10.txt
+displayname=Luchon
+uri=http://soaringweb.org/TP/Luchon/luchon10.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=cherenc2.txt
+displayname=Mantes-Ch#rence
+uri=http://soaringweb.org/TP/Cherence/cherenc2.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=marmande.txt
+displayname=Marmande
+uri=http://soaringweb.org/TP/Marmande/marmande.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=maubeug7.txt
+displayname=Maubeuge-Elesmes
+uri=http://soaringweb.org/TP/Maubeuge/maubeug7.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=montaig7.txt
+displayname=Montaigu-St-Georges
+uri=http://soaringweb.org/TP/Montaigu/montaig7.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=mtlucon8.txt
+displayname=Montlu#on-Guer#t ( LFBK )
+uri=http://soaringweb.org/TP/Montlucon/mtlucon8.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=pcstlop3.txt
+displayname=Montpellier - Pic Saint Loup
+uri=http://soaringweb.org/TP/Montpellier/pcstlop3.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=sprntcvn.txt
+displayname=Montpellier ( Sprints de Cevennes, 2010 )
+uri=http://soaringweb.org/TP/SprintCevennes/sprntcvn.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=moret_15.txt
+displayname=Moret-Episy
+uri=http://soaringweb.org/TP/Moret/moret_15.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=nancy_17.txt
+displayname=Nancy-Malz#ville
+uri=http://soaringweb.org/TP/Nancy/nancy_17.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=niort_10.txt
+displayname=Niort
+uri=http://soaringweb.org/TP/Niort/niort_10.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=orlean07.txt
+displayname=Orl#ans
+uri=http://soaringweb.org/TP/Orleans/orlean07.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=orleand3.txt
+displayname=Orl#ans
+uri=http://soaringweb.org/TP/Orleans_deb/orleand3.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=nogaro18.txt
+displayname=Nogaro
+uri=http://soaringweb.org/TP/Nogaro/nogaro18.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=perigeux.txt
+displayname=P#rigeux
+uri=http://soaringweb.org/TP/Perigeux/perigeux.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=ploer_04.txt
+displayname=Plo#rmel
+uri=http://soaringweb.org/TP/Ploermel/ploer_04.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=ploen_04.txt
+displayname=Ploermel ( names with numbers attached )
+uri=http://soaringweb.org/TP/Ploermel_num/ploen_04.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=ploermls.txt
+displayname=Plo#rmel ( Sprints )
+uri=http://soaringweb.org/TP/Ploermel_sprints/ploermls.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=poitier3.txt
+displayname=Poitiers
+uri=http://soaringweb.org/TP/Poitiers/poitier3.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=pntsvnc6.txt
+displayname=Pont Saint Vincent
+uri=http://soaringweb.org/TP/Pont_st_vincent/pntsvnc6.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=l_mntgn.txt
+displayname=Revel ( La Montagne Noire )
+uri=http://soaringweb.org/TP/La_montagne_noire/l_mntgn.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=roanne09.txt
+displayname=Roanne
+uri=http://soaringweb.org/TP/Roanne/roanne09.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=reims.txt
+displayname=Reims
+uri=http://soaringweb.org/TP/Reims/reims.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=romans16.txt
+displayname=Romans
+uri=http://soaringweb.org/TP/Romans/romans16.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=romrntn4.txt
+displayname=Romorantin-Pruniers
+uri=http://soaringweb.org/TP/Romorantin/romrntn4.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=stcrpn18.txt
+displayname=St. Cr#pin
+uri=http://soaringweb.org/TP/St_crepin/stcrpn18.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=mussey17.txt
+displayname=Saint Dizier
+uri=http://soaringweb.org/TP/St_dizier/mussey17.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=st_flo_8.txt
+displayname=Saint-Flo Ch#u
+uri=http://soaringweb.org/TP/St_flo/st_flo_8.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=st_foy.txt
+displayname=Sainte-Foy-la-Grande
+uri=http://soaringweb.org/TP/St_foy/st_foy.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=st_gadns.txt
+displayname=St. Gaudens-Montr#jeau
+uri=http://soaringweb.org/TP/St_gaudens/st_gadns.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=sarbrg8a.txt
+displayname=Sarrebourg
+uri=http://soaringweb.org/TP/Sarrebourg/sarbrg8a.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=srrgmn10.txt
+displayname=Sarreguemines
+uri=http://soaringweb.org/TP/Sarreguemines/srrgmn10.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=belmont.txt
+displayname=Saint Affrique-Belmont
+uri=http://soaringweb.org/TP/Belmont/belmont.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=sistern7.txt
+displayname=Sisteron
+uri=http://soaringweb.org/TP/Sisteron/sistern7.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=sgp2014.txt
+displayname=Sisteron ( SGP 2014 )
+uri=http://soaringweb.org/TP/Sisteron_gp/sgp2014.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=soissons.txt
+displayname=Soissons
+uri=http://soaringweb.org/TP/Soissons/soissons.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=strasbrg.txt
+displayname=Strasbourg
+uri=http://soaringweb.org/TP/Strasbourg/strasbrg.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=tarbes.txt
+displayname=Tarbes
+uri=http://soaringweb.org/TP/Tarbes/tarbes.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=touls17.txt
+displayname=Bourg Saint-Bernard
+uri=http://soaringweb.org/TP/Toulouse/touls17.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=touls_c7.txt
+displayname=Bourg Saint-Bernard ( Championnat Inter-r#gional, 2013 )
+uri=http://soaringweb.org/TP/Toulouse_comp/touls_c7.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=tours_15.txt
+displayname=Tours ( Le Louroux )
+uri=http://soaringweb.org/TP/Tours/tours_15.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=100chat6.txt
+displayname=Tours ( 100 Ch#teaux )
+uri=http://soaringweb.org/TP/Tours_chateaux/100chat6.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=vichy_a.txt
+displayname=Vichy
+uri=http://soaringweb.org/TP/Vichy/vichy_a.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=vinon_16.txt
+displayname=Vinon Comp#titions 2014
+uri=http://soaringweb.org/TP/Vinon/vinon_16.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=vinonlcl.txt
+displayname=Vinon ( Local )
+uri=http://soaringweb.org/TP/Vinon_local/vinonlcl.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=vinonj09.txt
+displayname=Vinon
+uri=http://soaringweb.org/TP/Vinon_espoir/vinonj09.txt
+type=airspace
+area=Europe
+subarea=France
+
+name=germany.txt
+displayname=German Decentralized Comps
+uri=http://soaringweb.org/TP/Germany/germany.txt
+type=airspace
+area=Europe
+subarea=German Decentralized Comps
+
+name=baden.txt
+displayname=Baden-W#rttemberg ( DMST )
+uri=http://soaringweb.org/TP/Baden/baden.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=albstadt.txt
+displayname=Albstadt-Degerfeld
+uri=http://soaringweb.org/TP/Albstadt/albstadt.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=biberach.txt
+displayname=Biberach
+uri=http://soaringweb.org/TP/Biberach/biberach.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=blaubern.txt
+displayname=Blaubeuren
+uri=http://soaringweb.org/TP/Blaubeuren/blaubern.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=Dcknprfn.txt
+displayname=Deckenpfronn
+uri=http://soaringweb.org/TP/Deckenpfronn/Dcknprfn.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=cralshm7.txt
+displayname=Crailsheim
+uri=http://soaringweb.org/TP/Crailsheim/cralshm7.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=ellwangn.txt
+displayname=Ellwangen
+uri=http://soaringweb.org/TP/Ellwangen/ellwangn.txt
+type=airspace
+area=Europe
+subarea=Baden W#rttemberg, Germany
+
+name=ulm_2012.txt
+displayname=Erbach
+uri=http://soaringweb.org/TP/Ulm/ulm_2012.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=freiburg.txt
+displayname=Freiburg
+uri=http://soaringweb.org/TP/Freiburg/freiburg.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=grbsttn1.txt
+displayname=Grabenstetten
+uri=http://soaringweb.org/TP/Grabenstetten/grbsttn1.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=hilzingn.txt
+displayname=Hilzingen
+uri=http://soaringweb.org/TP/Hilzingen/hilzingn.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=hocknhm6.txt
+displayname=Hockenheim
+uri=http://soaringweb.org/TP/Hockenheim/hocknhm6.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=hornberg.txt
+displayname=Hornberg
+uri=http://soaringweb.org/TP/Hornberg/hornberg.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=htznwld8.txt
+displayname=Hotzenwald
+uri=http://soaringweb.org/TP/Hotzenwald/htznwld8.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=hahnwed8.txt
+displayname=Kirchheim unter Teck
+uri=http://soaringweb.org/TP/Hahnweide/hahnwed8.txt
+type=airspace
+area=Europe
+subarea=Deutschland
+
+name=klppnck4.txt
+displayname=Klippeneck
+uri=http://soaringweb.org/TP/Klippeneck/klppnck4.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=juflie4.txt
+displayname=Leibertingen
+uri=http://soaringweb.org/TP/Leibertingen/juflie4.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=mengen13.txt
+displayname=Mengen
+uri=http://soaringweb.org/TP/Mengen/mengen13.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=frrnbrg8.txt
+displayname=M#ssingen
+uri=http://soaringweb.org/TP/Moessingen/frrnbrg8.txt
+type=airspace
+area=Europe
+subarea=Deutchland
+
+name=musbach6.txt
+displayname=Musbach
+uri=http://soaringweb.org/TP/Musbach/musbach6.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=wdmf2000.txt
+displayname=Neresheim
+uri=http://soaringweb.org/TP/Neresheim/wdmf2000.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=ndrstttn.txt
+displayname=Niederstetten
+uri=http://soaringweb.org/TP/Niederstetten/ndrstttn.txt
+type=airspace
+area=Europe
+subarea=Baden-W#rttemberg, Germany
+
+name=reslfngn.txt
+displayname=Reiselfingen
+uri=http://soaringweb.org/TP/Reiselfingen/reslfngn.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=stahrngn.txt
+displayname=Stahringen
+uri=http://soaringweb.org/TP/Stahringen/stahrngn.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=schwhll0.txt
+displayname=Schw#bisch-Hall
+uri=http://soaringweb.org/TP/Schwaebisch_hall/schwhll0.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=waldurn6.txt
+displayname=Walld#rn
+uri=http://soaringweb.org/TP/Wallduern/waldurn6.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=ubrsbrg3.txt
+displayname=#bersberg
+uri=http://soaringweb.org/TP/Uebersberg/ubrsbrg3.txt
+type=airspace
+area=Europe
+subarea=Baden-W#rttembrug, Germany
+
+name=winzeln4.txt
+displayname=Winzeln-Schramberg
+uri=http://soaringweb.org/TP/Winzeln/winzeln4.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=petrsdrf.txt
+displayname=Ansbach-Petersdorf
+uri=http://soaringweb.org/TP/Petersdorf/petrsdrf.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=bayerth4.txt
+displayname=Bayreuth
+uri=http://soaringweb.org/TP/Bayreuth/bayerth4.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=wesbrgf4.txt
+displayname=Wei#enburg and Burg Feuerstein
+uri=http://soaringweb.org/TP/Weissenburg/wesbrgf4.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=coburg04.txt
+displayname=Coburg
+uri=http://soaringweb.org/TP/Coburg/coburg04.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=stillb03.txt
+displayname=Donauw#rth ( Stillberghof )
+uri=http://soaringweb.org/TP/Donauwoerth/stillb03.txt
+type=airspace
+area=Europe
+subarea=Deutschland
+
+name=eichsttt.txt
+displayname=Eichst#tt
+uri=http://soaringweb.org/TP/Eichstaett/eichsttt.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=fuessen6.txt
+displayname=F#ssen
+uri=http://soaringweb.org/TP/Fuessen/fuessen6.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=weiden.txt
+displayname=Weiden
+uri=http://soaringweb.org/TP/Weiden/weiden.txt
+type=airspace
+area=Europe
+subarea=Deutchland
+
+name=lvbb2000.txt
+displayname=Brandenburg
+uri=http://soaringweb.org/TP/Brandenburg_dmst/lvbb2000.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=brndbrg8.txt
+displayname=Brandenburg an der Heuvel
+uri=http://soaringweb.org/TP/Brandenburg/brndbrg8.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=bronkow7.txt
+displayname=Bronkow
+uri=http://soaringweb.org/TP/Bronkow/bronkow7.txt
+type=airspace
+area=Europe
+subarea=Brandenburg, Germany
+
+name=hlzdrf7a.txt
+displayname=Holzdorf
+uri=http://soaringweb.org/TP/Holzdorf/hlzdrf7a.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=kmmrmrk5.txt
+displayname=Kammermark
+uri=http://soaringweb.org/TP/Kammermark/kmmrmrk5.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=luesse18.txt
+displayname=L#sse
+uri=http://soaringweb.org/TP/Luesse/luesse18.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=neuruppn.txt
+displayname=Neuruppin
+uri=http://soaringweb.org/TP/Neuruppin/neuruppn.txt
+type=airspace
+area=Europe
+subarea=Brandenburg, Germany
+
+name=neuhsn6a.txt
+displayname=Neuhausen
+uri=http://soaringweb.org/TP/Neuhausen/neuhsn6a.txt
+type=airspace
+area=Europe
+subarea=Brandenburg, Germany
+
+name=stoeln14.txt
+displayname=St#lln-Rhinow
+uri=http://soaringweb.org/TP/Stoelln/stoeln14.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=anspach2.txt
+displayname=Anspach/Taunus
+uri=http://soaringweb.org/TP/Anspach/anspach2.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=bretschd.txt
+displayname=Breitschied
+uri=http://soaringweb.org/TP/Breitscheid/bretschd.txt
+type=airspace
+area=Europe
+subarea=Hessen, Germany
+
+name=drnbrg15.txt
+displayname=D#rnberg
+uri=http://soaringweb.org/TP/Doernberg/drnbrg15.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=bzm_2013.txt
+displayname=Gedern
+uri=http://soaringweb.org/TP/Gedern/bzm_2013.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=gelnhsn5.txt
+displayname=Gelnhausen
+uri=http://soaringweb.org/TP/Gelnhausen/gelnhsn5.txt
+type=airspace
+area=Europe
+subarea=Hessen, Germany
+
+name=giessen.txt
+displayname=Gie#en-Wieseck
+uri=http://soaringweb.org/TP/Giessen/giessen.txt
+type=airspace
+area=Europe
+subarea=Deutchland
+
+name=marburg0.txt
+displayname=Marburg-Sch#nstadt
+uri=http://soaringweb.org/TP/Marburg/marburg0.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=reinheim.txt
+displayname=Reinheim Odenwald
+uri=http://soaringweb.org/TP/Reinheim/reinheim.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=wsskrkp5.txt
+displayname=Wasserkuppe
+uri=http://soaringweb.org/TP/Wasserkuppe/wsskrkp5.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=wassergp.txt
+displayname=Wasserkuppe ( GPF 2011 )
+uri=http://soaringweb.org/TP/Wasserkuppe_GP/wassergp.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=pasewlk3.txt
+displayname=Pasewalk
+uri=http://soaringweb.org/TP/Pasewalk/pasewlk3.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=achmer17.txt
+displayname=Achmer
+uri=http://soaringweb.org/TP/Achmer/achmer17.txt
+type=airspace
+area=Europe
+subarea=Niedersachsen, Germany
+
+name=bohmte07.txt
+displayname=Bohmte-Bad Essen
+uri=http://soaringweb.org/TP/Bohmte/bohmte07.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=brnschwg.txt
+displayname=Braunschweig
+uri=http://soaringweb.org/TP/Braunschweig/brnschwg.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=bueckbrg.txt
+displayname=B#ckeburg
+uri=http://soaringweb.org/TP/Bueckeburg/bueckbrg.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=dlmnhrs3.txt
+displayname=Delmenhorst
+uri=http://soaringweb.org/TP/Delmenhorst/dlmnhrs3.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=gifhorn4.txt
+displayname=Gifhorn
+uri=http://soaringweb.org/TP/Gifhorn/gifhorn4.txt
+type=airspace
+area=Europe
+subarea=Niedersachsen, Germany
+
+name=grssmr11.txt
+displayname=Gro#es Moor ( Burgdorf-Ehlershausen )
+uri=http://soaringweb.org/TP/Grosses_moor/grssmr11.txt
+type=airspace
+area=Europe
+subarea=Niedersachsische, Germany
+
+name=hodengn2.txt
+displayname=Hodenhagen
+uri=http://soaringweb.org/TP/Hodenhagen/hodengn2.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=hoya.txt
+displayname=Hoya/Weser
+uri=http://soaringweb.org/TP/Hoya/hoya.txt
+type=airspace
+area=Europe
+subarea=Niedersachsen, Germany
+
+name=northeim.txt
+displayname=Northeim
+uri=http://soaringweb.org/TP/Northeim/northeim.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=nordhrn7.txt
+displayname=Nordhorn
+uri=http://soaringweb.org/TP/Nordhorn/nordhrn7.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=nrdhrn_n.txt
+displayname=Nordhorn - Lingen ( NSM 2008 )
+uri=http://soaringweb.org/TP/Nordhorn_nsm/nrdhrn_n.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=opprshsn.txt
+displayname=Oppershausen/Wienhausen
+uri=http://soaringweb.org/TP/Oppershausen/opprshsn.txt
+type=airspace
+area=Europe
+subarea=Nieders#chsen, Germany
+
+name=papenbrg.txt
+displayname=Papenburg ( Steinberg )
+uri=http://soaringweb.org/TP/Papenburg/papenbrg.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=rtnbrg16.txt
+displayname=Rotenburg ( W#mme )
+uri=http://soaringweb.org/TP/Rotenburg/rtnbrg16.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=repke_10.txt
+displayname=Repke-Schnuckenheide
+uri=http://soaringweb.org/TP/Repke/repke_10.txt
+type=airspace
+area=Europe
+subarea=Niedersachsen, Germany
+
+name=stade.txt
+displayname=Stade Germany
+uri=http://soaringweb.org/TP/Stade/stade.txt
+type=airspace
+area=Europe
+subarea=Gerd-Zeiger-Vergleichsfliegen 2015
+
+name=tarmstd6.txt
+displayname=Tarmstedt-Westertimke
+uri=http://soaringweb.org/TP/Tarmstedt/tarmstd6.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=vrrlbsch.txt
+displayname=Varrelbusch
+uri=http://soaringweb.org/TP/Varrelbusch/vrrlbsch.txt
+type=airspace
+area=Europe
+subarea=Niedersachsen, Germany
+
+name=verden.txt
+displayname=Verden
+uri=http://soaringweb.org/TP/Verden/verden.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=asperdn9.txt
+displayname=Krefeld-Egelsberg
+uri=http://soaringweb.org/TP/Asperden/asperdn9.txt
+type=airspace
+area=Europe
+subarea=Nordrhein-Westfalen, Germany
+
+name=borknbr9.txt
+displayname=Borkenberge
+uri=http://soaringweb.org/TP/Borkenberge/borknbr9.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=brilon.txt
+displayname=Brilon
+uri=http://soaringweb.org/TP/Brilon/brilon.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=hangelar.txt
+displayname=Bonn-Hangelar
+uri=http://soaringweb.org/TP/Hangelar/hangelar.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=dahlemer.txt
+displayname=Dahlemer Binz
+uri=http://soaringweb.org/TP/Dahlemer/dahlemer.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=grvnbrch.txt
+displayname=Grevenbroich Gustorfer H#he
+uri=http://soaringweb.org/TP/Grevenbroich/grvnbrch.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=krefeld7.txt
+displayname=Krefeld-Egelsberg
+uri=http://soaringweb.org/TP/Krefeld/krefeld7.txt
+type=airspace
+area=Europe
+subarea=Nordrhein-Westfalen, Germany
+
+name=mescehd2.txt
+displayname=Meschede-Sch#ren
+uri=http://soaringweb.org/TP/Meschede/mescehd2.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=orlngh2a.txt
+displayname=Oerlinghausen
+uri=http://soaringweb.org/TP/Oerlinghausen/orlngh2a.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=oventrp6.txt
+displayname=Oeventrop
+uri=http://soaringweb.org/TP/Oeventrop/oventrp6.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=portaws9.txt
+displayname=Porta Westfalica
+uri=http://soaringweb.org/TP/Porta/portaws9.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=rennefld.txt
+displayname=Schmallenberg Rennefeld
+uri=http://soaringweb.org/TP/Rennefeld/rennefld.txt
+type=airspace
+area=Europe
+subarea=Nordrhein-Westfalen, Germany
+
+name=lchnspy6.txt
+displayname=Lachen-Speyerdorf
+uri=http://soaringweb.org/TP/Lachen/lchnspy6.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=landau18.txt
+displayname=Landau in der Pfalz
+uri=http://soaringweb.org/TP/Landau/landau18.txt
+type=airspace
+area=Europe
+subarea=Deutchland
+
+name=danstdt9.txt
+displayname=Ludwigshafen-Dannstadt
+uri=http://soaringweb.org/TP/Dannstadt/danstdt9.txt
+type=airspace
+area=Europe
+subarea=Rheinland-Pfalz, Germany
+
+name=mnschd17.txt
+displayname=M#nscheide
+uri=http://soaringweb.org/TP/Moenscheide/mnschd17.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=nastattn.txt
+displayname=Nast#tten
+uri=http://soaringweb.org/TP/Nastaetten/nastattn.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=pirmasns.txt
+displayname=Pirmasens
+uri=http://soaringweb.org/TP/Pirmasens/pirmasns.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=wershofn.txt
+displayname=Wershofen/Eifel
+uri=http://soaringweb.org/TP/Wershofen/wershofn.txt
+type=airspace
+area=Europe
+subarea=Rheinland-Pfalz, Deutchland
+
+name=goerltz3.txt
+displayname=G#rlitz
+uri=http://soaringweb.org/TP/Goerlitz/goerltz3.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=klix_17.txt
+displayname=Klix
+uri=http://soaringweb.org/TP/Klix/klix_17.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=riesa_15.txt
+displayname=Riesa-Canitz
+uri=http://soaringweb.org/TP/Riesa/riesa_15.txt
+type=airspace
+area=Europe
+subarea=Sachsen, Germany
+
+name=roitzsc3.txt
+displayname=Roitzschjora
+uri=http://soaringweb.org/TP/Roitzschjora/roitzsc3.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=zwickau4.txt
+displayname=Zwickau
+uri=http://soaringweb.org/TP/Zwickau/zwickau4.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=gardelgn.txt
+displayname=Gardelegen
+uri=http://soaringweb.org/TP/Gardelegen/gardelgn.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=halle.txt
+displayname=Halle/Oppin
+uri=http://soaringweb.org/TP/Halle/halle.txt
+type=airspace
+area=Europe
+subarea=Sachsen-Anhalt, Germany
+
+name=laucha.txt
+displayname=Laucha
+uri=http://soaringweb.org/TP/Laucha/laucha.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=magdebrg.txt
+displayname=Magdeburg
+uri=http://soaringweb.org/TP/Magdeburg/magdebrg.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=rennertz.txt
+displayname=Renneritz
+uri=http://soaringweb.org/TP/Renneritz/rennertz.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=schnbck8.txt
+displayname=Sch#nebeck
+uri=http://soaringweb.org/TP/Schoenebeck/schnbck8.txt
+type=airspace
+area=Europe
+subarea=Sachsen-Anhalt, Germany
+
+name=stendal7.txt
+displayname=Stendal
+uri=http://soaringweb.org/TP/Stendal/stendal7.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=schleswg.txt
+displayname=Schleswig-Holstein
+uri=http://soaringweb.org/TP/Schleswig/schleswg.txt
+type=airspace
+area=Europe
+subarea=German Decentralized Comps
+
+name=boberg06.txt
+displayname=Boberg
+uri=http://soaringweb.org/TP/Boberg/boberg06.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=luebeck.txt
+displayname=L#beck
+uri=http://soaringweb.org/TP/Luebeck/luebeck.txt
+type=airspace
+area=Europe
+subarea=German Decentralized Comps
+
+name=bdfrkhs6.txt
+displayname=Bad Frankenhausen
+uri=http://soaringweb.org/TP/Bad_frankenhausen/bdfrkhs6.txt
+type=airspace
+area=Europe
+subarea=Th#ringen, Germany
+
+name=greiz_18.txt
+displayname=Greiz Obergrochlitz
+uri=http://soaringweb.org/TP/Greiz/greiz_18.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=jena2016.txt
+displayname=Jena-Sch#ngleina
+uri=http://soaringweb.org/TP/Jena/jena2016.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=rdlfst17.txt
+displayname=Rudolstadt-Groschwitz
+uri=http://soaringweb.org/TP/Rudolstadt/rdlfst17.txt
+type=airspace
+area=Europe
+subarea=Germany
+
+name=greece.txt
+displayname=Greece
+uri=http://soaringweb.org/TP/Greece/greece.txt
+type=airspace
+area=Europe
+subarea=Greece
+
+name=hungary.txt
+displayname=Hungary
+uri=http://soaringweb.org/TP/Hungary/hungary.txt
+type=airspace
+area=Europe
+subarea=Hungary
+
+name=hngr_rpr.txt
+displayname=Hungarian Airports
+uri=http://soaringweb.org/TP/Hungary_airports/hngr_rpr.txt
+type=airspace
+area=Europe
+subarea=Hungarian Airports
+
+name=egc_2002.txt
+displayname=B#k#scsaba
+uri=http://soaringweb.org/TP/Bekescsaba/egc_2002.txt
+type=airspace
+area=Europe
+subarea=Hungary
+
+name=dunajvrs.txt
+displayname=Dun#ujv#ros
+uri=http://soaringweb.org/TP/Dunaujvaros/dunajvrs.txt
+type=airspace
+area=Europe
+subarea=Hungary
+
+name=frkshgy4.txt
+displayname=Farkashegy
+uri=http://soaringweb.org/TP/Farkashegy/frkshgy4.txt
+type=airspace
+area=Europe
+subarea=Hungary
+
+name=hajdus17.txt
+displayname=Aero Club Hajd#szoboszl#
+uri=http://soaringweb.org/TP/Hajdus/hajdus17.txt
+type=airspace
+area=Europe
+subarea=Aero Club Hajd#szoboszl#
+
+name=ocseny15.txt
+displayname=#cs#ny
+uri=http://soaringweb.org/TP/Ocseny/ocseny15.txt
+type=airspace
+area=Europe
+subarea=Hungary
+
+name=sztymz18.txt
+displayname=Szatymaz
+uri=http://soaringweb.org/TP/Szatymaz/sztymz18.txt
+type=airspace
+area=Europe
+subarea=Hungary
+
+name=szeged7.txt
+displayname=Szeged
+uri=http://soaringweb.org/TP/Szeged/szeged7.txt
+type=airspace
+area=Europe
+subarea=Hungary
+
+name=szolsz2.txt
+displayname=Szolnok-Szanda
+uri=http://soaringweb.org/TP/Szolnok/szolsz2.txt
+type=airspace
+area=Europe
+subarea=Hungary
+
+name=Eire2018.txt
+displayname=Ireland
+uri=http://soaringweb.org/TP/Ireland/Eire2018.txt
+type=airspace
+area=Europe
+subarea=Ireland
+
+name=aeccvv05.txt
+displayname=Rieti
+uri=http://soaringweb.org/TP/Aeccvv/aeccvv05.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=aeccvv_s.txt
+displayname=Aeroclub Centrale di Volo a Vela ( Stage )
+uri=http://soaringweb.org/TP/Aeccvv_stage/aeccvv_s.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=calcnt8a.txt
+displayname=Calcinate del Pesce ( Varese )
+uri=http://soaringweb.org/TP/Calcinate/calcnt8a.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=clcnapc1.txt
+displayname=Calcinate del Pesce ( Varese )
+uri=http://soaringweb.org/TP/Calcinate_con/clcnapc1.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=clcnaps1.txt
+displayname=Calcinate del Pesce ( Varese )
+uri=http://soaringweb.org/TP/Calcinate_senza/clcnaps1.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=sgp_2015.txt
+displayname=Calcinate del Pesce ( Varese: Soaring Grand Prix )
+uri=http://soaringweb.org/TP/Varese_sgp/sgp_2015.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=cid_s_02.txt
+displayname=Southernmost Italy
+uri=http://soaringweb.org/TP/Italy_s/cid_s_02.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=cid_n_02.txt
+displayname=Northernmost Italy
+uri=http://soaringweb.org/TP/Italy_n/cid_n_02.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=appnnn_n.txt
+displayname=Campionato Emiliano Volo a Vela
+uri=http://soaringweb.org/TP/Appennino_nord/appnnn_n.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=gorizia.txt
+displayname=Gorizia
+uri=http://soaringweb.org/TP/Gorizia/gorizia.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=ferrara8.txt
+displayname=Ferrara
+uri=http://soaringweb.org/TP/Ferrara/ferrara8.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=ferrarv5.txt
+displayname=Ferrara
+uri=http://soaringweb.org/TP/Ferrara_vintage/ferrarv5.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=novilig5.txt
+displayname=Novi Ligure
+uri=http://soaringweb.org/TP/Novi_ligure/novilig5.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=rieti17a.txt
+displayname=Rieti ( EGC 2015 )
+uri=http://soaringweb.org/TP/Rieti/rieti17a.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=rietegc5.txt
+displayname=Rieti ( EGC 2015, control and landing points )
+uri=http://soaringweb.org/TP/Rieti_all/rietegc5.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=torino12.txt
+displayname=Torino
+uri=http://soaringweb.org/TP/Torino/torino12.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=tuscany.txt
+displayname=Tuscany
+uri=http://soaringweb.org/TP/Tuscany/tuscany.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=voghera8.txt
+displayname=Voghera-Rivanazzano
+uri=http://soaringweb.org/TP/Voghera/voghera8.txt
+type=airspace
+area=Europe
+subarea=Italy
+
+name=lithuani.txt
+displayname=Lithuania
+uri=http://soaringweb.org/TP/Lithuania/lithuani.txt
+type=airspace
+area=Europe
+subarea=Lithuania
+
+name=birzai11.txt
+displayname=Birzai
+uri=http://soaringweb.org/TP/Birzai/birzai11.txt
+type=airspace
+area=Europe
+subarea=Lithuania
+
+name=kaunas.txt
+displayname=Lietuvos virtualaus sklandymo cempionatas 2012
+uri=http://soaringweb.org/TP/Kaunas/kaunas.txt
+type=airspace
+area=Europe
+subarea=Lietuvos virtualaus sklandymo cempionatas 2012
+
+name=palukny8.txt
+displayname=Paluknys
+uri=http://soaringweb.org/TP/Paluknys/palukny8.txt
+type=airspace
+area=Europe
+subarea=Lithuania
+
+name=pociun7a.txt
+displayname=Pociunai
+uri=http://soaringweb.org/TP/Pociunai/pociun7a.txt
+type=airspace
+area=Europe
+subarea=Lithuania
+
+name=telsiai8.txt
+displayname=Telsiai
+uri=http://soaringweb.org/TP/Telsiai/telsiai8.txt
+type=airspace
+area=Europe
+subarea=Lithuania
+
+name=sallnd17.txt
+displayname=Aero Club Salland
+uri=http://soaringweb.org/TP/Salland/sallnd17.txt
+type=airspace
+area=Europe
+subarea=the Netherlands
+
+name=deelen.txt
+displayname=Deelen
+uri=http://soaringweb.org/TP/Deelen/deelen.txt
+type=airspace
+area=Europe
+subarea=Netherlands
+
+name=de_peel.txt
+displayname=de Peel
+uri=http://soaringweb.org/TP/De_peel/de_peel.txt
+type=airspace
+area=Europe
+subarea=Netherlands
+
+name=eindhovn.txt
+displayname=Eindhoven
+uri=http://soaringweb.org/TP/Eindhoven/eindhovn.txt
+type=airspace
+area=Europe
+subarea=Netherlands
+
+name=gilze.txt
+displayname=Gilze Rijen
+uri=http://soaringweb.org/TP/Gilze/gilze.txt
+type=airspace
+area=Europe
+subarea=Netherlands
+
+name=gnl.txt
+displayname=Grand Prix Zweefliegen Nederland
+uri=http://soaringweb.org/TP/GNL/gnl.txt
+type=airspace
+area=Europe
+subarea=Grand Prix Zweefliegen Nederland
+
+name=lmrlrvld.txt
+displayname=Lemelerveld
+uri=http://soaringweb.org/TP/Lemerlerveld/lmrlrvld.txt
+type=airspace
+area=Europe
+subarea=Netherlands
+
+name=soestb5.txt
+displayname=Soesterberg
+uri=http://soaringweb.org/TP/Soesterberg/soestb5.txt
+type=airspace
+area=Europe
+subarea=Netherlands
+
+name=terlet17.txt
+displayname=Terlet
+uri=http://soaringweb.org/TP/Terlet/terlet17.txt
+type=airspace
+area=Europe
+subarea=Netherlands
+
+name=t2d2015.txt
+displayname=Teuge
+uri=http://soaringweb.org/TP/Teuge/t2d2015.txt
+type=airspace
+area=Europe
+subarea=Netherlands
+
+name=venlo_17.txt
+displayname=Venlo
+uri=http://soaringweb.org/TP/Venlo/venlo_17.txt
+type=airspace
+area=Europe
+subarea=Netherlands
+
+name=wnsdrcht.txt
+displayname=Woensdrecht
+uri=http://soaringweb.org/TP/Woensdrecht/wnsdrcht.txt
+type=airspace
+area=Europe
+subarea=Netherlands
+
+name=norge_11.txt
+displayname=Norway
+uri=http://soaringweb.org/TP/Norway/norge_11.txt
+type=airspace
+area=Europe
+subarea=Norway
+
+name=no_sout1.txt
+displayname=Southern Norway ( S#r-Norge )
+uri=http://soaringweb.org/TP/Norway_south/no_sout1.txt
+type=airspace
+area=Europe
+subarea=Southern Norway ( S#r-Norge )
+
+name=no_midt1.txt
+displayname=Middle Norway ( Midt-Norge: Fagerhaug )
+uri=http://soaringweb.org/TP/Norway_middle/no_midt1.txt
+type=airspace
+area=Europe
+subarea=Middle Norway ( Midt-Norge: Fagerhaug )
+
+name=no_east1.txt
+displayname=Eastern Norway ( Starmoen )
+uri=http://soaringweb.org/TP/Norway_east/no_east1.txt
+type=airspace
+area=Europe
+subarea=Eastern Norway ( Starmoen )
+
+name=no_vest1.txt
+displayname=Western Norway ( Vest-Norge: Notodden )
+uri=http://soaringweb.org/TP/Norway_west/no_vest1.txt
+type=airspace
+area=Europe
+subarea=Western Norway ( Vest-Norge: Notodden )
+
+name=no_soln1.txt
+displayname=Salangen ( Elvenes )
+uri=http://soaringweb.org/TP/Norway_salang/no_soln1.txt
+type=airspace
+area=Europe
+subarea=Norway
+
+name=poland.txt
+displayname=Poland
+uri=http://soaringweb.org/TP/Poland/poland.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=bednary.txt
+displayname=Bednary
+uri=http://soaringweb.org/TP/Bednary/bednary.txt
+type=airspace
+area=Europe
+subarea=Pobiedziska, Pozna, Poland
+
+name=bezmichw.txt
+displayname=Bezmiechowa G#rna
+uri=http://soaringweb.org/TP/Bezmiechowa/bezmichw.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=czstchw2.txt
+displayname=Czestochowa
+uri=http://soaringweb.org/TP/Czestochowa/czstchw2.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=deblin.txt
+displayname=Deblin
+uri=http://soaringweb.org/TP/Deblin/deblin.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=gliwice.txt
+displayname=Gliwice
+uri=http://soaringweb.org/TP/Gliwice/gliwice.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=jelngor2.txt
+displayname=Jelenia Gora
+uri=http://soaringweb.org/TP/Jelenia_gora/jelngor2.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=leszno18.txt
+displayname=Leszno
+uri=http://soaringweb.org/TP/Leszno/leszno18.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=lisiekt7.txt
+displayname=Lisie Katy
+uri=http://soaringweb.org/TP/Lisie/lisiekt7.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=lodz.txt
+displayname=L#dz
+uri=http://soaringweb.org/TP/Lodz/lodz.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=olsztyn.txt
+displayname=Olsztyn
+uri=http://soaringweb.org/TP/Olsztyn/olsztyn.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=ostrow8b.txt
+displayname=Ostr#w Wielkopol
+uri=http://soaringweb.org/TP/Ostrow/ostrow8b.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=pila_14.txt
+displayname=Pila
+uri=http://soaringweb.org/TP/Pila/pila_14.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=poznan.txt
+displayname=Poznan
+uri=http://soaringweb.org/TP/Poznan/poznan.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=radom_07.txt
+displayname=Radom
+uri=http://soaringweb.org/TP/Radom/radom_07.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=rybnik.txt
+displayname=Rybnik-Gotartowice
+uri=http://soaringweb.org/TP/Rybnik/rybnik.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=suwalki.txt
+displayname=Suwalki
+uri=http://soaringweb.org/TP/Suwalki/suwalki.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=turbia4c.txt
+displayname=Turbia
+uri=http://soaringweb.org/TP/Turbia/turbia4c.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=zar_2015.txt
+displayname=Zar
+uri=http://soaringweb.org/TP/Zar/zar_2015.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=zieln_gr.txt
+displayname=Zielona G#ra
+uri=http://soaringweb.org/TP/Zielona_gora/zieln_gr.txt
+type=airspace
+area=Europe
+subarea=Poland
+
+name=portugal.txt
+displayname=Portugal
+uri=http://soaringweb.org/TP/Portugal/portugal.txt
+type=airspace
+area=Europe
+subarea=Portugal
+
+name=evora_03.txt
+displayname=#vora
+uri=http://soaringweb.org/TP/Evora/evora_03.txt
+type=airspace
+area=Europe
+subarea=Portugal
+
+name=brasov18.txt
+displayname=Brasov ( Ghimbav )
+uri=http://soaringweb.org/TP/Brasov/brasov18.txt
+type=airspace
+area=Europe
+subarea=Romania
+
+name=craiva7a.txt
+displayname=Craiova
+uri=http://soaringweb.org/TP/Craiova/craiva7a.txt
+type=airspace
+area=Europe
+subarea=Romania
+
+name=oradea.txt
+displayname=Oradea
+uri=http://soaringweb.org/TP/Oradea/oradea.txt
+type=airspace
+area=Europe
+subarea=Romania
+
+name=kazan.txt
+displayname=Kazan
+uri=http://soaringweb.org/TP/Kazan/kazan.txt
+type=airspace
+area=Europe
+subarea=Tatarstan, Russia
+
+name=novosib0.txt
+displayname=Novosibirsk
+uri=http://soaringweb.org/TP/Novosibirsk/novosib0.txt
+type=airspace
+area=Europe
+subarea=Russia
+
+name=orel2015.txt
+displayname=Orel
+uri=http://soaringweb.org/TP/Orel/orel2015.txt
+type=airspace
+area=Europe
+subarea=Russia
+
+name=novi_sad.txt
+displayname=Novi Sad
+uri=http://soaringweb.org/TP/Novi_sad/novi_sad.txt
+type=airspace
+area=Europe
+subarea=Serbia
+
+name=zrenjan4.txt
+displayname=Zrenjanin ( Ecka )
+uri=http://soaringweb.org/TP/Zrenjanin/zrenjan4.txt
+type=airspace
+area=Europe
+subarea=Serbia
+
+name=trnava17.txt
+displayname=Boler#z ( Aeroklub Trnava )
+uri=http://soaringweb.org/TP/Trnava/trnava17.txt
+type=airspace
+area=Europe
+subarea=Slovakia
+
+name=dubnica.txt
+displayname=Dubnica
+uri=http://soaringweb.org/TP/Dubnica/dubnica.txt
+type=airspace
+area=Europe
+subarea=Slovakia
+
+name=nitra_15.txt
+displayname=Nitra
+uri=http://soaringweb.org/TP/Nitra/nitra_15.txt
+type=airspace
+area=Europe
+subarea=Slovakia
+
+name=pribnagp.txt
+displayname=Nitra ( Pribina Grand Prix )
+uri=http://soaringweb.org/TP/Nitra_gp/pribnagp.txt
+type=airspace
+area=Europe
+subarea=Slovakia
+
+name=prtznsk7.txt
+displayname=Partiz#nsk#
+uri=http://soaringweb.org/TP/Partizanske/prtznsk7.txt
+type=airspace
+area=Europe
+subarea=Slovakia
+
+name=prievdz8.txt
+displayname=Prievidza
+uri=http://soaringweb.org/TP/Prievidza/prievdz8.txt
+type=airspace
+area=Europe
+subarea=Slovakia
+
+name=sloven00.txt
+displayname=Slovenia
+uri=http://soaringweb.org/TP/Slovenia/sloven00.txt
+type=airspace
+area=Europe
+subarea=Slovenia
+
+name=ajdovscn.txt
+displayname=Ajdovscina
+uri=http://soaringweb.org/TP/Ajdovscina/ajdovscn.txt
+type=airspace
+area=Europe
+subarea=Slovenia
+
+name=celje_17.txt
+displayname=Celje
+uri=http://soaringweb.org/TP/Celje/celje_17.txt
+type=airspace
+area=Europe
+subarea=Slovenia
+
+name=lesce_18.txt
+displayname=Lesce-Bled
+uri=http://soaringweb.org/TP/Lesce/lesce_18.txt
+type=airspace
+area=Europe
+subarea=Slovenia
+
+name=murska16.txt
+displayname=Murska Sobota
+uri=http://soaringweb.org/TP/Murska/murska16.txt
+type=airspace
+area=Europe
+subarea=Slovenia
+
+name=slvnjgrd.txt
+displayname=Slovenj Gradec
+uri=http://soaringweb.org/TP/Slovenj_gradec/slvnjgrd.txt
+type=airspace
+area=Europe
+subarea=Slovenia
+
+name=espagne2.txt
+displayname=Spain
+uri=http://soaringweb.org/TP/Spain/espagne2.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=campolar.txt
+displayname=Campolara
+uri=http://soaringweb.org/TP/Campolara/campolar.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=fuente02.txt
+displayname=Castilla la Vieja
+uri=http://soaringweb.org/TP/Fuentemilanos/fuente02.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=fntmlns4.txt
+displayname=Fuentemilanos
+uri=http://soaringweb.org/TP/Fuentemilanos_nats/fntmlns4.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=igualad8.txt
+displayname=Igualada-#dena
+uri=http://soaringweb.org/TP/Igualada/igualad8.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=cerdny8a.txt
+displayname=La Cerdanya
+uri=http://soaringweb.org/TP/Cerdanya/cerdny8a.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=lamanch2.txt
+displayname=La Mancha
+uri=http://soaringweb.org/TP/La_mancha/lamanch2.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=ot14.txt
+displayname=La Mancha ( Operaci#n Triunfo 2014 )
+uri=http://soaringweb.org/TP/La_mancha_ot/ot14.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=lillo_17.txt
+displayname=Lillo
+uri=http://soaringweb.org/TP/Lillo/lillo_17.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=monflort.txt
+displayname=Monflorite-Alcal#
+uri=http://soaringweb.org/TP/Monflorite/monflort.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=ocana_03.txt
+displayname=Oca#a
+uri=http://soaringweb.org/TP/Ocana/ocana_03.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=ocana_14.txt
+displayname=Oca#a
+uri=http://soaringweb.org/TP/Ocana_comp/ocana_14.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=ocanapw5.txt
+displayname=Oca#a ( PW5 )
+uri=http://soaringweb.org/TP/Ocana_pw5/ocanapw5.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=oc_os_07.txt
+displayname=Oca#a ( Overseas Nationals )
+uri=http://soaringweb.org/TP/Ocana_overseas/oc_os_07.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=jaca_02.txt
+displayname=Pirineos
+uri=http://soaringweb.org/TP/Jaca/jaca_02.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=jnac_01.txt
+displayname=Jaca
+uri=http://soaringweb.org/TP/Jaca_nats/jnac_01.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=santacl6.txt
+displayname=Santa Cilia de Jaca
+uri=http://soaringweb.org/TP/Santa_cilia/santacl6.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=santome.txt
+displayname=Santo Tom#
+uri=http://soaringweb.org/TP/Santome/santome.txt
+type=airspace
+area=Europe
+subarea=Spain
+
+name=sweden98.txt
+displayname=Sweden
+uri=http://soaringweb.org/TP/Sweden/sweden98.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=swdnlm00.txt
+displayname=Sweden
+uri=http://soaringweb.org/TP/Sweden_limited/swdnlm00.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=arboga17.txt
+displayname=Arboga
+uri=http://soaringweb.org/TP/Arboga/arboga17.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=boras_18.txt
+displayname=Bor#s
+uri=http://soaringweb.org/TP/Boras/boras_18.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=borlange.txt
+displayname=Borl#nge
+uri=http://soaringweb.org/TP/Borlange/borlange.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=bravalla.txt
+displayname=Br#valla
+uri=http://soaringweb.org/TP/Bravalla/bravalla.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=wgcse06a.txt
+displayname=Eskilstuna ( WGC 2006 )
+uri=http://soaringweb.org/TP/WGC_2006_se/wgcse06a.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=falkpng3.txt
+displayname=Falk#ping
+uri=http://soaringweb.org/TP/Falkoping/falkpng3.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=stnssvng.txt
+displayname=Herrljunga ( Stationssv#ngen )
+uri=http://soaringweb.org/TP/Stationssvangen/stnssvng.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=hultsfrd.txt
+displayname=Hultsfred
+uri=http://soaringweb.org/TP/Hultsfred/hultsfrd.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=jonkopg0.txt
+displayname=J#nk#ping
+uri=http://soaringweb.org/TP/Jonkoping/jonkopg0.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=jnkpng_l.txt
+displayname=J#nk#ping ( Local )
+uri=http://soaringweb.org/TP/Jonkoping_local/jnkpng_l.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=karlskog.txt
+displayname=Karlskoga
+uri=http://soaringweb.org/TP/Karlskoga/karlskog.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=karlstd7.txt
+displayname=Karlstad
+uri=http://soaringweb.org/TP/Karlstad/karlstd7.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=njgc_04.txt
+displayname=Kronobergshed
+uri=http://soaringweb.org/TP/Kronobergshed/njgc_04.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=lngtrg3a.txt
+displayname=L#ngtora ( QGP )
+uri=http://soaringweb.org/TP/Q_SGP_Langtora/lngtrg3a.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=langglid.txt
+displayname=L#ngtora ( L#ngGlide SM 2011 )
+uri=http://soaringweb.org/TP/Langglide/langglid.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=lidkpng4.txt
+displayname=Lidk#ping
+uri=http://soaringweb.org/TP/Lidkoping/lidkpng4.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=linkop02.txt
+displayname=Link#ping
+uri=http://soaringweb.org/TP/Linkoping/linkop02.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=norrkpng.txt
+displayname=Norrk#ping
+uri=http://soaringweb.org/TP/Norrkoping/norrkpng.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=orebro_7.txt
+displayname=#rebro
+uri=http://soaringweb.org/TP/Orebro/orebro_7.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=skovde16.txt
+displayname=Sk#vde
+uri=http://soaringweb.org/TP/Skovde/skovde16.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=swed_sy9.txt
+displayname=Southern Sweden
+uri=http://soaringweb.org/TP/Sweden_south/swed_sy9.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=storvik.txt
+displayname=Storvik
+uri=http://soaringweb.org/TP/Storvik/storvik.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=sundbro7.txt
+displayname=Sundbro
+uri=http://soaringweb.org/TP/Sundbro/sundbro7.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=sundbro7.txt
+displayname=Sundbro
+uri=http://soaringweb.org/TP/Sundbro_numbers_only/sundbro7.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=vansgo17.txt
+displayname=V#ngs#
+uri=http://soaringweb.org/TP/Vansgo/vansgo17.txt
+type=airspace
+area=Europe
+subarea=Sweden
+
+name=schweiz.txt
+displayname=Switzerland
+uri=http://soaringweb.org/TP/Switzerland/schweiz.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=amlikon3.txt
+displayname=Amlikon
+uri=http://soaringweb.org/TP/Amlikon/amlikon3.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=ragaz.txt
+displayname=Bad Ragaz
+uri=http://soaringweb.org/TP/Ragaz/ragaz.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=bllchs17.txt
+displayname=Bellechasse
+uri=http://soaringweb.org/TP/Bellechasse/bllchs17.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=sm_2006.txt
+displayname=Bern ( Belp )
+uri=http://soaringweb.org/TP/Bern/sm_2006.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=bex_2017.txt
+displayname=Bex
+uri=http://soaringweb.org/TP/Bex/bex_2017.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=brrfld14.txt
+displayname=Birrfeld
+uri=http://soaringweb.org/TP/Birrfeld/brrfld14.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=lenzburg.txt
+displayname=Birrfeld
+uri=http://soaringweb.org/TP/Lenzburg/lenzburg.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=butwil15.txt
+displayname=Buttwil
+uri=http://soaringweb.org/TP/Buttwil/butwil15.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=dittngn8.txt
+displayname=Dittingen
+uri=http://soaringweb.org/TP/Dittingen/dittngn8.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=schpfrt5.txt
+displayname=Fricktal-Schupfart
+uri=http://soaringweb.org/TP/Schupfart/schpfrt5.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=grenchn8.txt
+displayname=Grenchen
+uri=http://soaringweb.org/TP/Grenchen/grenchn8.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=gruyere6.txt
+displayname=Gruy#res
+uri=http://soaringweb.org/TP/Gruyeres/gruyere6.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=hausen11.txt
+displayname=Hausen am Albis
+uri=http://soaringweb.org/TP/Hausen/hausen11.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=kaegswl9.txt
+displayname=K#giswil
+uri=http://soaringweb.org/TP/Kaegiswil/kaegswl9.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=locarno.txt
+displayname=Locarno
+uri=http://soaringweb.org/TP/Locarno/locarno.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=mntrchr4.txt
+displayname=Montricher
+uri=http://soaringweb.org/TP/Montricher/mntrchr4.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=muenster.txt
+displayname=M#nster
+uri=http://soaringweb.org/TP/Muenster/muenster.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=crvv_01.txt
+displayname=Neuch#tel ( Les Eplatures )
+uri=http://soaringweb.org/TP/Neuchatel/crvv_01.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=samedan.txt
+displayname=Samedan
+uri=http://soaringweb.org/TP/Samedan/samedan.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=gpch.txt
+displayname=Samedan ( Grand Prix )
+uri=http://soaringweb.org/TP/GPCH/gpch.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=saentis.txt
+displayname=S#ntis
+uri=http://soaringweb.org/TP/Saentis/saentis.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=snvitore.txt
+displayname=San Vittore
+uri=http://soaringweb.org/TP/San_vittore/snvitore.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=schaen16.txt
+displayname=Sch#nis
+uri=http://soaringweb.org/TP/Schaenis/schaen16.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=schffhs6.txt
+displayname=Schaffhausen
+uri=http://soaringweb.org/TP/Schaffhausen/schffhs6.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=sion_15.txt
+displayname=Sion
+uri=http://soaringweb.org/TP/Sion/sion_15.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=yverdon7.txt
+displayname=Yverdon
+uri=http://soaringweb.org/TP/Yverdon/yverdon7.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=wintrthr.txt
+displayname=Winterthur
+uri=http://soaringweb.org/TP/Winterthur/wintrthr.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=zweisim7.txt
+displayname=Zweisimmen
+uri=http://soaringweb.org/TP/Zweisimmen/zweisim7.txt
+type=airspace
+area=Europe
+subarea=Switzerland
+
+name=ukraine5.txt
+displayname=Ukraine
+uri=http://soaringweb.org/TP/Ukraine/ukraine5.txt
+type=airspace
+area=Europe
+subarea=Ukraine
+
+name=rovno_17.txt
+displayname=Rovno ( Rivne/Voronov )
+uri=http://soaringweb.org/TP/Rivne/rovno_17.txt
+type=airspace
+area=Europe
+subarea=Ukraine
+
+name=canada.txt
+displayname=Canada
+uri=http://soaringweb.org/TP/Canada/canada.txt
+type=airspace
+area=North America
+subarea=Canada
+
+name=albert4a.txt
+displayname=Alberta ( Provincial List )
+uri=http://soaringweb.org/TP/Alberta/albert4a.txt
+type=airspace
+area=North America
+subarea=Canada
+
+name=chipmn8a.txt
+displayname=Chipman
+uri=http://soaringweb.org/TP/Chipman/chipmn8a.txt
+type=airspace
+area=North America
+subarea=Alberta
+
+name=clrshlm5.txt
+displayname=Claresholm
+uri=http://soaringweb.org/TP/Claresholm/clrshlm5.txt
+type=airspace
+area=North America
+subarea=Alberta
+
+name=innisfal.txt
+displayname=Innisfail
+uri=http://soaringweb.org/TP/Innisfail/innisfal.txt
+type=airspace
+area=North America
+subarea=Alberta
+
+name=netook.txt
+displayname=Netook
+uri=http://soaringweb.org/TP/Netook/netook.txt
+type=airspace
+area=North America
+subarea=Alberta
+
+name=red_deer.txt
+displayname=Red Deer
+uri=http://soaringweb.org/TP/Red_deer/red_deer.txt
+type=airspace
+area=North America
+subarea=Alberta
+
+name=brandon.txt
+displayname=Brandon
+uri=http://soaringweb.org/TP/Brandon/brandon.txt
+type=airspace
+area=North America
+subarea=Manitoba
+
+name=arthur14.txt
+displayname=Arthur ( York Soaring Association )
+uri=http://soaringweb.org/TP/Arthur/arthur14.txt
+type=airspace
+area=North America
+subarea=Ontario
+
+name=colgan.txt
+displayname=Colgan
+uri=http://soaringweb.org/TP/Colgan/colgan.txt
+type=airspace
+area=North America
+subarea=Ontario
+
+name=hwksbr7a.txt
+displayname=Hawkesbury
+uri=http://soaringweb.org/TP/Hawkesbury/hwksbr7a.txt
+type=airspace
+area=North America
+subarea=Ontario
+
+name=cosa.txt
+displayname=Omemee ( Central Ontario Soaring Association )
+uri=http://soaringweb.org/TP/COSA/cosa.txt
+type=airspace
+area=North America
+subarea=Ontario
+
+name=pndltn3a.txt
+displayname=Pendleton
+uri=http://soaringweb.org/TP/Pendleton/pndltn3a.txt
+type=airspace
+area=North America
+subarea=Ontario
+
+name=mayfly13.txt
+displayname=MayFly
+uri=http://soaringweb.org/TP/Mayfly/mayfly13.txt
+type=airspace
+area=North America
+subarea=Pendleton, Ontario
+
+name=rockton4.txt
+displayname=Rockton
+uri=http://soaringweb.org/TP/Rockton/rockton4.txt
+type=airspace
+area=North America
+subarea=Ontario
+
+name=scontar9.txt
+displayname=South Central Ontario
+uri=http://soaringweb.org/TP/Southcentral_ontario/scontar9.txt
+type=airspace
+area=North America
+subarea=Canada
+
+name=StDomi99.txt
+displayname=St. Dominique
+uri=http://soaringweb.org/TP/St_dominique/StDomi99.txt
+type=airspace
+area=North America
+subarea=Quebec
+
+name=strymn03.txt
+displayname=St. Raymond
+uri=http://soaringweb.org/TP/St_raymond/strymn03.txt
+type=airspace
+area=North America
+subarea=Quebec
+
+name=strayn_4.txt
+displayname=St. Raymond
+uri=http://soaringweb.org/TP/St_raymond_nats/strayn_4.txt
+type=airspace
+area=North America
+subarea=Quebec
+
+name=nrth_btt.txt
+displayname=North Battleford
+uri=http://soaringweb.org/TP/North_battleford/nrth_btt.txt
+type=airspace
+area=North America
+subarea=Saskatchewan
+
+name=moontn03.txt
+displayname=Huntsville ( Moontown Airport )
+uri=http://soaringweb.org/TP/Moontown/moontn03.txt
+type=airspace
+area=North America
+subarea=Alabama
+
+name=monteval.txt
+displayname=Montevallo ( Birmingham Soaring Society )
+uri=http://soaringweb.org/TP/Montevallo/monteval.txt
+type=airspace
+area=North America
+subarea=Alabama
+
+name=mntgmr9a.txt
+displayname=Montgomery
+uri=http://soaringweb.org/TP/Montgomery/mntgmr9a.txt
+type=airspace
+area=North America
+subarea=Alabama
+
+name=sylacag7.txt
+displayname=Sylacauga
+uri=http://soaringweb.org/TP/Sylacauga/sylacag7.txt
+type=airspace
+area=North America
+subarea=Alabama
+
+name=lawrnc17.txt
+displayname=Cherry Valley ( Lawrence Field )
+uri=http://soaringweb.org/TP/Lawrence/lawrnc17.txt
+type=airspace
+area=North America
+subarea=Arkansas
+
+name=asa2012a.txt
+displayname=Arizona Soaring Association
+uri=http://soaringweb.org/TP/ASA/asa2012a.txt
+type=airspace
+area=North America
+subarea=Arizona
+
+name=eltiro12.txt
+displayname=Marana ( El Tiro )
+uri=http://soaringweb.org/TP/El_tiro/eltiro12.txt
+type=airspace
+area=North America
+subarea=Arizona
+
+name=estrla99.txt
+displayname=Estrella Sailport ( Maricopa )
+uri=http://soaringweb.org/TP/Estrella/estrla99.txt
+type=airspace
+area=North America
+subarea=Arizona
+
+name=sprgrvl9.txt
+displayname=Springerville
+uri=http://soaringweb.org/TP/Springerville/sprgrvl9.txt
+type=airspace
+area=North America
+subarea=Arizona
+
+name=turf2012.txt
+displayname=Peoria ( Turf )
+uri=http://soaringweb.org/TP/Turf/turf2012.txt
+type=airspace
+area=North America
+subarea=Arizona
+
+name=avenal12.txt
+displayname=Avenal
+uri=http://soaringweb.org/TP/Avenal/avenal12.txt
+type=airspace
+area=North America
+subarea=California
+
+name=cal_city.txt
+displayname=California City
+uri=http://soaringweb.org/TP/Cal_city/cal_city.txt
+type=airspace
+area=North America
+subarea=California
+
+name=hemet.txt
+displayname=Hemet
+uri=http://soaringweb.org/TP/Hemet/hemet.txt
+type=airspace
+area=North America
+subarea=California
+
+name=hllstr18.txt
+displayname=Hollister
+uri=http://soaringweb.org/TP/Hollister/hllstr18.txt
+type=airspace
+area=North America
+subarea=California
+
+name=inyokrn1.txt
+displayname=Inyokern
+uri=http://soaringweb.org/TP/Inyokern/inyokrn1.txt
+type=airspace
+area=North America
+subarea=California
+
+name=crazy_9b.txt
+displayname=Middletown ( #Crazy Creek Gliderport# )
+uri=http://soaringweb.org/TP/Crazy/crazy_9b.txt
+type=airspace
+area=North America
+subarea=California
+
+name=montag4e.txt
+displayname=Montague
+uri=http://soaringweb.org/TP/Montague/montag4e.txt
+type=airspace
+area=North America
+subarea=California
+
+name=norcalpr.txt
+displayname=Northern California Cross Country League
+uri=http://soaringweb.org/TP/Norcalpara/norcalpr.txt
+type=airspace
+area=North America
+subarea=California
+
+name=colnga03.txt
+displayname=New Coalinga
+uri=http://soaringweb.org/TP/Coalinga/colnga03.txt
+type=airspace
+area=North America
+subarea=California
+
+name=santaynz.txt
+displayname=Santa Ynez
+uri=http://soaringweb.org/TP/Santa_ynez/santaynz.txt
+type=airspace
+area=North America
+subarea=California
+
+name=trucke8a.txt
+displayname=Truckee
+uri=http://soaringweb.org/TP/Truckee/trucke8a.txt
+type=airspace
+area=North America
+subarea=California
+
+name=truckc8a.txt
+displayname=Truckee ( Contest Points Only )
+uri=http://soaringweb.org/TP/Truckee_cp/truckc8a.txt
+type=airspace
+area=North America
+subarea=California
+
+name=wrnrsp8a.txt
+displayname=Warner Springs
+uri=http://soaringweb.org/TP/Warner/wrnrsp8a.txt
+type=airspace
+area=North America
+subarea=California
+
+name=warnr_xc.txt
+displayname=Warner Springs
+uri=http://soaringweb.org/TP/Warner_xc/warnr_xc.txt
+type=airspace
+area=North America
+subarea=California
+
+name=wsc_16.txt
+displayname=Williams Soaring Center
+uri=http://soaringweb.org/TP/Williams/wsc_16.txt
+type=airspace
+area=North America
+subarea=California
+
+name=c14_2010.txt
+displayname=Colorado 14er Challenge
+uri=http://soaringweb.org/TP/CO_14/c14_2010.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=aspen_2.txt
+displayname=Aspen
+uri=http://soaringweb.org/TP/Aspen_2/aspen_2.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=blck_frs.txt
+displayname=Black Forest
+uri=http://soaringweb.org/TP/Black_forest/blck_frs.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=b1000540.txt
+displayname=Boulder ( #within#100#sm# )
+uri=http://soaringweb.org/TP/Boulder_100/b1000540.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=b2500540.txt
+displayname=Boulder ( #within#250#sm# )
+uri=http://soaringweb.org/TP/Boulder_250/b2500540.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=east0540.txt
+displayname=CO east to Albert Lea, MN
+uri=http://soaringweb.org/TP/Boulder_east/east0540.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=soth0540.txt
+displayname=CO south to Moriarty, NM
+uri=http://soaringweb.org/TP/Boulder_south/soth0540.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=canon99.txt
+displayname=Fremont County ( Canon City )
+uri=http://soaringweb.org/TP/Canon/canon99.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=colo0540.txt
+displayname=Colorado Region
+uri=http://soaringweb.org/TP/Colorado/colo0540.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=bullseye.txt
+displayname=Ellicott ( Bullseye )
+uri=http://soaringweb.org/TP/Bullseye/bullseye.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=hayden.txt
+displayname=Hayden
+uri=http://soaringweb.org/TP/Hayden/hayden.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=k1000540.txt
+displayname=Kelly Airpark ( #within#100#sm# )
+uri=http://soaringweb.org/TP/Kelly_100/k1000540.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=k2500540.txt
+displayname=Kelly Airpark ( #within#250#sm# )
+uri=http://soaringweb.org/TP/Kelly_250/k2500540.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=owl_cann.txt
+displayname=Owl Canyon
+uri=http://soaringweb.org/TP/Owl_canyon/owl_cann.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=o1000540.txt
+displayname=Owl Canyon ( #within#100#sm# )
+uri=http://soaringweb.org/TP/Owl_canyon_100/o1000540.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=o2500540.txt
+displayname=Owl Canyon ( #within#250#sm# )
+uri=http://soaringweb.org/TP/Owl_canyon_250/o2500540.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=steambt7.txt
+displayname=Steamboat Springs
+uri=http://soaringweb.org/TP/Steamboat/steambt7.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=tellurid.txt
+displayname=Telluride
+uri=http://soaringweb.org/TP/Telluride/tellurid.txt
+type=airspace
+area=North America
+subarea=Colorado
+
+name=archer12.txt
+displayname=Archer ( #Flying#Ten# )
+uri=http://soaringweb.org/TP/Archer/archer12.txt
+type=airspace
+area=North America
+subarea=Florida
+
+name=seminl4b.txt
+displayname=Clermont ( Seminole Lake )
+uri=http://soaringweb.org/TP/Seminole/seminl4b.txt
+type=airspace
+area=North America
+subarea=Florida
+
+name=smnlgp7b.txt
+displayname=Clermont ( Seminole Lake  - Grand Prix )
+uri=http://soaringweb.org/TP/Seminole_gp/smnlgp7b.txt
+type=airspace
+area=North America
+subarea=Florida
+
+name=bnbrdg4a.txt
+displayname=Bainbridge
+uri=http://soaringweb.org/TP/Bainbridge/bnbrdg4a.txt
+type=airspace
+area=North America
+subarea=Georgia
+
+name=cordel18.txt
+displayname=Cordele
+uri=http://soaringweb.org/TP/Cordele/cordel18.txt
+type=airspace
+area=North America
+subarea=Georgia
+
+name=gta_satl.txt
+displayname=GTA Race Series South of Atlanta: Pine Mountain
+uri=http://soaringweb.org/TP/GTA_SATL/gta_satl.txt
+type=airspace
+area=North America
+subarea=Georgia
+
+name=lgrng_02.txt
+displayname=La Grange ( Southern Eagles Soaring )
+uri=http://soaringweb.org/TP/Lagrange/lgrng_02.txt
+type=airspace
+area=North America
+subarea=Georgia
+
+name=monroe6a.txt
+displayname=Monroe ( Mid-Georgia Soaring Association )
+uri=http://soaringweb.org/TP/Monroe/monroe6a.txt
+type=airspace
+area=North America
+subarea=Georgia
+
+name=quitman.txt
+displayname=Quitman
+uri=http://soaringweb.org/TP/Quitman/quitman.txt
+type=airspace
+area=North America
+subarea=Georgia
+
+name=wrm_sprn.txt
+displayname=Warm Springs
+uri=http://soaringweb.org/TP/Warm_springs/wrm_sprn.txt
+type=airspace
+area=North America
+subarea=Georgia
+
+name=driggs.txt
+displayname=Driggs
+uri=http://soaringweb.org/TP/Driggs/driggs.txt
+type=airspace
+area=North America
+subarea=Idaho
+
+name=lost_rvr.txt
+displayname=Lost River Mountain Range
+uri=http://soaringweb.org/TP/Lost_river/lost_rvr.txt
+type=airspace
+area=North America
+subarea=Idaho
+
+name=nampa7a.txt
+displayname=Nampa
+uri=http://soaringweb.org/TP/Nampa/nampa7a.txt
+type=airspace
+area=North America
+subarea=Idaho
+
+name=nillin8a.txt
+displayname=Chicago Glider
+uri=http://soaringweb.org/TP/Northern_illinois/nillin8a.txt
+type=airspace
+area=North America
+subarea=Illinois
+
+name=nillin8a.txt
+displayname=Chicago Glider ( Control Points )
+uri=http://soaringweb.org/TP/Northern_illinois_controlpoints/nillin8a.txt
+type=airspace
+area=North America
+subarea=Illinois
+
+name=nillin8a.txt
+displayname=Chicago Glider ( Landing Points )
+uri=http://soaringweb.org/TP/Northern_illinois_landingpoints/nillin8a.txt
+type=airspace
+area=North America
+subarea=Illinois
+
+name=reg799.txt
+displayname=Chicago Glider / Hinckley
+uri=http://soaringweb.org/TP/Reg799/reg799.txt
+type=airspace
+area=North America
+subarea=Illinois
+
+name=freeport.txt
+displayname=Freeport
+uri=http://soaringweb.org/TP/Freeport/freeport.txt
+type=airspace
+area=North America
+subarea=Illinois
+
+name=hinckley.txt
+displayname=Hinckley
+uri=http://soaringweb.org/TP/Hinckley/hinckley.txt
+type=airspace
+area=North America
+subarea=Illinois
+
+name=SLSA2012.txt
+displayname=Highland ( St Louis Soaring Association )
+uri=http://soaringweb.org/TP/Highland/SLSA2012.txt
+type=airspace
+area=North America
+subarea=Illinois
+
+name=joliet.txt
+displayname=Joliet
+uri=http://soaringweb.org/TP/Joliet/joliet.txt
+type=airspace
+area=North America
+subarea=Illinois
+
+name=lwrncvll.txt
+displayname=Lawrenceville
+uri=http://soaringweb.org/TP/Lawrenceville/lwrncvll.txt
+type=airspace
+area=North America
+subarea=Illinois
+
+name=silvrcrk.txt
+displayname=New Douglas ( #Silvercreek#Glider#Club# )
+uri=http://soaringweb.org/TP/Silvercreek/silvrcrk.txt
+type=airspace
+area=North America
+subarea=Illinois
+
+name=whitesid.txt
+displayname=Sterling
+uri=http://soaringweb.org/TP/Whiteside/whitesid.txt
+type=airspace
+area=North America
+subarea=Illinois
+
+name=ciss514.txt
+displayname=Alexandria ( 50 nm )
+uri=http://soaringweb.org/TP/Alexandria_50/ciss514.txt
+type=airspace
+area=North America
+subarea=Indiana
+
+name=ciss_14.txt
+displayname=Alexandria
+uri=http://soaringweb.org/TP/Alexandria_100/ciss_14.txt
+type=airspace
+area=North America
+subarea=Indiana
+
+name=knldlvl1.txt
+displayname=Kendallville
+uri=http://soaringweb.org/TP/Kendallville/knldlvl1.txt
+type=airspace
+area=North America
+subarea=Indiana
+
+name=hutch_18.txt
+displayname=Hutchinson ( Sunflower Gliderport )
+uri=http://soaringweb.org/TP/Hutchinson/hutch_18.txt
+type=airspace
+area=North America
+subarea=Kansas
+
+name=r10n_18a.txt
+displayname=Hutchinson ( Sunflower Gliderport, Region 10 North, 2014 )
+uri=http://soaringweb.org/TP/Hutchinson_R10N/r10n_18a.txt
+type=airspace
+area=North America
+subarea=Kansas
+
+name=ulysses.txt
+displayname=Ulysses
+uri=http://soaringweb.org/TP/Ulysses/ulysses.txt
+type=airspace
+area=North America
+subarea=Kansas
+
+name=richmond.txt
+displayname=Gregory
+uri=http://soaringweb.org/TP/Richmond/richmond.txt
+type=airspace
+area=North America
+subarea=Michigan
+
+name=ionia16d.txt
+displayname=Ionia
+uri=http://soaringweb.org/TP/Ionia/ionia16d.txt
+type=airspace
+area=North America
+subarea=Michigan
+
+name=sterlng7.txt
+displayname=Sterling
+uri=http://soaringweb.org/TP/Sterling/sterlng7.txt
+type=airspace
+area=North America
+subarea=Massachusetts
+
+name=albertl8.txt
+displayname=Albert Lea
+uri=http://soaringweb.org/TP/Albert_lea/albertl8.txt
+type=airspace
+area=North America
+subarea=Minnesota
+
+name=stanton.txt
+displayname=Stanton
+uri=http://soaringweb.org/TP/Stanton/stanton.txt
+type=airspace
+area=North America
+subarea=Minnesota
+
+name=meridian.txt
+displayname=Meridian
+uri=http://soaringweb.org/TP/Meridian/meridian.txt
+type=airspace
+area=North America
+subarea=Mississippi
+
+name=livngstn.txt
+displayname=Livingston
+uri=http://soaringweb.org/TP/Livingston/livngstn.txt
+type=airspace
+area=North America
+subarea=Montana
+
+name=blair.txt
+displayname=Blair
+uri=http://soaringweb.org/TP/Blair/blair.txt
+type=airspace
+area=North America
+subarea=Nebraska
+
+name=francon3.txt
+displayname=Franconia
+uri=http://soaringweb.org/TP/Franconia/francon3.txt
+type=airspace
+area=North America
+subarea=New Hampshire
+
+name=gorham13.txt
+displayname=Gorham
+uri=http://soaringweb.org/TP/Gorham/gorham13.txt
+type=airspace
+area=North America
+subarea=New Hampshire
+
+name=blarstwn.txt
+displayname=Blairstown
+uri=http://soaringweb.org/TP/Blairstown/blarstwn.txt
+type=airspace
+area=North America
+subarea=New Jersey
+
+name=blairfun.txt
+displayname=Blairstown ( Little Guys Meet )
+uri=http://soaringweb.org/TP/Blairstown_fun/blairfun.txt
+type=airspace
+area=North America
+subarea=New Jersey
+
+name=governr4.txt
+displayname=Governors Cup
+uri=http://soaringweb.org/TP/Governor/governr4.txt
+type=airspace
+area=North America
+subarea=New Jersey
+
+name=alamogrd.txt
+displayname=Alamogordo
+uri=http://soaringweb.org/TP/Alamogordo/alamogrd.txt
+type=airspace
+area=North America
+subarea=New Mexico
+
+name=hobbs_17.txt
+displayname=Hobbs
+uri=http://soaringweb.org/TP/Hobbs/hobbs_17.txt
+type=airspace
+area=North America
+subarea=New Mexico
+
+name=hobbs_wc.txt
+displayname=Hobbs
+uri=http://soaringweb.org/TP/Hobbs_wc/hobbs_wc.txt
+type=airspace
+area=North America
+subarea=New Mexico
+
+name=hobbs126.txt
+displayname=Hobbs
+uri=http://soaringweb.org/TP/Hobbs_126/hobbs126.txt
+type=airspace
+area=North America
+subarea=New Mexico
+
+name=moriart9.txt
+displayname=Moriarty
+uri=http://soaringweb.org/TP/Moriarty/moriart9.txt
+type=airspace
+area=North America
+subarea=New Mexico
+
+name=mority66.txt
+displayname=Moriarty ( 1-26 and Super Regionals )
+uri=http://soaringweb.org/TP/Moriarty_126/mority66.txt
+type=airspace
+area=North America
+subarea=New Mexico
+
+name=moriarc3.txt
+displayname=Moriarty ( Contest )
+uri=http://soaringweb.org/TP/Moriarty_contest/moriarc3.txt
+type=airspace
+area=North America
+subarea=New Mexico
+
+name=taos.txt
+displayname=Taos
+uri=http://soaringweb.org/TP/Taos/taos.txt
+type=airspace
+area=North America
+subarea=New Mexico
+
+name=dnsvill6.txt
+displayname=Dansville
+uri=http://soaringweb.org/TP/Dansville/dnsvill6.txt
+type=airspace
+area=North America
+subarea=New York
+
+name=freehold.txt
+displayname=Freehold ( Nutmeg Soaring Association )
+uri=http://soaringweb.org/TP/Freehold/freehold.txt
+type=airspace
+area=North America
+subarea=New York
+
+name=glnfls6a.txt
+displayname=Glens Falls
+uri=http://soaringweb.org/TP/Glens_falls/glnfls6a.txt
+type=airspace
+area=North America
+subarea=New York
+
+name=harhill5.txt
+displayname=Harris Hill
+uri=http://soaringweb.org/TP/Harris_hill/harhill5.txt
+type=airspace
+area=North America
+subarea=New York
+
+name=lak_plcd.txt
+displayname=Lake Placid
+uri=http://soaringweb.org/TP/Lake_placid/lak_plcd.txt
+type=airspace
+area=North America
+subarea=New York
+
+name=midltwn0.txt
+displayname=Middletown
+uri=http://soaringweb.org/TP/Middletown/midltwn0.txt
+type=airspace
+area=North America
+subarea=New York
+
+name=adrndc14.txt
+displayname=Saratoga ( Adirondak Soaring Club )
+uri=http://soaringweb.org/TP/Adirondack/adrndc14.txt
+type=airspace
+area=North America
+subarea=New York
+
+name=saratoga.txt
+displayname=Saratoga
+uri=http://soaringweb.org/TP/Saratoga/saratoga.txt
+type=airspace
+area=North America
+subarea=New York
+
+name=wurtsbr6.txt
+displayname=Wurtsboro
+uri=http://soaringweb.org/TP/Wurtsboro/wurtsbr6.txt
+type=airspace
+area=North America
+subarea=New York
+
+name=nevada.txt
+displayname=Minden
+uri=http://soaringweb.org/TP/Nevada/nevada.txt
+type=airspace
+area=North America
+subarea=Nevada
+
+name=asi_2016.txt
+displayname=Reno ( Air Sailing )
+uri=http://soaringweb.org/TP/Airsailing/asi_2016.txt
+type=airspace
+area=North America
+subarea=Nevada
+
+name=ely2005b.txt
+displayname=Ely
+uri=http://soaringweb.org/TP/Ely/ely2005b.txt
+type=airspace
+area=North America
+subarea=Nevada
+
+name=jean.txt
+displayname=Jean
+uri=http://soaringweb.org/TP/Jean/jean.txt
+type=airspace
+area=North America
+subarea=Nevada
+
+name=mindn126.txt
+displayname=Minden ( 1-26 )
+uri=http://soaringweb.org/TP/Minden_126/mindn126.txt
+type=airspace
+area=North America
+subarea=Nevada
+
+name=minden14.txt
+displayname=Minden
+uri=http://soaringweb.org/TP/Minden/minden14.txt
+type=airspace
+area=North America
+subarea=Nevada
+
+name=mndnunof.txt
+displayname=Minden
+uri=http://soaringweb.org/TP/Minden_unofficial/mndnunof.txt
+type=airspace
+area=North America
+subarea=Nevada
+
+name=mndn303b.txt
+displayname=Minden ( Cross Country )
+uri=http://soaringweb.org/TP/Minden_xc/mndn303b.txt
+type=airspace
+area=North America
+subarea=Nevada
+
+name=mndn_lnd.txt
+displayname=Minden ( Landmarks )
+uri=http://soaringweb.org/TP/Minden_landmarks/mndn_lnd.txt
+type=airspace
+area=North America
+subarea=Nevada
+
+name=tonph_02.txt
+displayname=Tonopah
+uri=http://soaringweb.org/TP/Tonopah/tonph_02.txt
+type=airspace
+area=North America
+subarea=Nevada
+
+name=tonph_03.txt
+displayname=Tonopah ( cross country )
+uri=http://soaringweb.org/TP/Tonopah_2/tonph_03.txt
+type=airspace
+area=North America
+subarea=Nevada
+
+name=harnett7.txt
+displayname=Erwin ( Harnett County Airport )
+uri=http://soaringweb.org/TP/Harnett/harnett7.txt
+type=airspace
+area=North America
+subarea=North Carolina
+
+name=bahnsn7b.txt
+displayname=Farmington ( Bahnson Field )
+uri=http://soaringweb.org/TP/Bahnson/bahnsn7b.txt
+type=airspace
+area=North America
+subarea=North Carolina
+
+name=bahnson6.txt
+displayname=Farmington 1-26 Meet
+uri=http://soaringweb.org/TP/Bahnson_126/bahnson6.txt
+type=airspace
+area=North America
+subarea=North Carolina
+
+name=shiflet7.txt
+displayname=Marion
+uri=http://soaringweb.org/TP/Shiflet/shiflet7.txt
+type=airspace
+area=North America
+subarea=North Carolina
+
+name=anson_03.txt
+displayname=Wadesboro ( Anson County )
+uri=http://soaringweb.org/TP/Anson/anson_03.txt
+type=airspace
+area=North America
+subarea=North Carolina
+
+name=caesrc15.txt
+displayname=Caesar Creek
+uri=http://soaringweb.org/TP/Caesar/caesrc15.txt
+type=airspace
+area=North America
+subarea=Ohio
+
+name=marion.txt
+displayname=Marion
+uri=http://soaringweb.org/TP/Marion/marion.txt
+type=airspace
+area=North America
+subarea=Ohio
+
+name=n_ohio.txt
+displayname=Northern Ohio
+uri=http://soaringweb.org/TP/Northern_ohio/n_ohio.txt
+type=airspace
+area=North America
+subarea=Ohio
+
+name=hinton.txt
+displayname=Hinton
+uri=http://soaringweb.org/TP/Hinton/hinton.txt
+type=airspace
+area=North America
+subarea=Oklahoma
+
+name=quachit1.txt
+displayname=Talihina
+uri=http://soaringweb.org/TP/Quachita/quachit1.txt
+type=airspace
+area=North America
+subarea=Oklahoma
+
+name=alvord18.txt
+displayname=Alvord Desert
+uri=http://soaringweb.org/TP/Alvord/alvord18.txt
+type=airspace
+area=North America
+subarea=Oregon
+
+name=bend.txt
+displayname=Bend
+uri=http://soaringweb.org/TP/Bend/bend.txt
+type=airspace
+area=North America
+subarea=Oregon
+
+name=hillsbr7.txt
+displayname=Hillsboro ( Willamette Valley Soaring Club )
+uri=http://soaringweb.org/TP/Hillsboro/hillsbr7.txt
+type=airspace
+area=North America
+subarea=Oregon
+
+name=nrthpln9.txt
+displayname=North Plains
+uri=http://soaringweb.org/TP/North_plains/nrthpln9.txt
+type=airspace
+area=North America
+subarea=Oregon
+
+name=bandel.txt
+displayname=Eighty Four ( Bandel )
+uri=http://soaringweb.org/TP/Bandel/bandel.txt
+type=airspace
+area=North America
+subarea=Pennsylvania
+
+name=reg04n16.txt
+displayname=Fairfield ( M-ASA, Region 4 North )
+uri=http://soaringweb.org/TP/Reg04n/reg04n16.txt
+type=airspace
+area=North America
+subarea=Pennsylvania
+
+name=fairfld6.txt
+displayname=Fairfield ( M-ASA, Task Day Championship )
+uri=http://soaringweb.org/TP/Fairfield/fairfld6.txt
+type=airspace
+area=North America
+subarea=Pennsylvania
+
+name=pgc2009c.txt
+displayname=Hilltown
+uri=http://soaringweb.org/TP/PGC/pgc2009c.txt
+type=airspace
+area=North America
+subarea=Pennsylvania
+
+name=ridge_01.txt
+displayname=Ridge Soaring Gliderport - Ridge Top ( #Julian, Pennsylvania# )
+uri=http://soaringweb.org/TP/Ridge/ridge_01.txt
+type=airspace
+area=North America
+subarea=Pennsylvania
+
+name=keystone.txt
+displayname=Ridge Soaring Gliderport - Photo Based ( #Julian, Pennsylvania# )
+uri=http://soaringweb.org/TP/Keystone/keystone.txt
+type=airspace
+area=North America
+subarea=Pennsylvania
+
+name=mifflin8.txt
+displayname=Reedsville ( Mifflin County )
+uri=http://soaringweb.org/TP/Mifflin/mifflin8.txt
+type=airspace
+area=North America
+subarea=Pennsylvania
+
+name=van_sant.txt
+displayname=Van Sant ( Erwinna )
+uri=http://soaringweb.org/TP/Van_sant/van_sant.txt
+type=airspace
+area=North America
+subarea=Pennsylvania
+
+name=chester1.txt
+displayname=Chester
+uri=http://soaringweb.org/TP/Chester/chester1.txt
+type=airspace
+area=North America
+subarea=South Carolina
+
+name=bhss12a.txt
+displayname=Jefferson ( Bermuda High Soaring School )
+uri=http://soaringweb.org/TP/Bermuda/bhss12a.txt
+type=airspace
+area=North America
+subarea=South Carolina
+
+name=18mbh13b.txt
+displayname=Jefferson ( Bermuda High Soaring School )
+uri=http://soaringweb.org/TP/18M_Nats_2013_US/18mbh13b.txt
+type=airspace
+area=North America
+subarea=South Carolina
+
+name=sprtbrg9.txt
+displayname=Spartanburg
+uri=http://soaringweb.org/TP/Spartanburg/sprtbrg9.txt
+type=airspace
+area=North America
+subarea=South Carolina
+
+name=perry18d.txt
+displayname=Perry
+uri=http://soaringweb.org/TP/Perry/perry18d.txt
+type=airspace
+area=North America
+subarea=South Carolina
+
+name=tripl_tr.txt
+displayname=Triple Tree
+uri=http://soaringweb.org/TP/Triple_tree/tripl_tr.txt
+type=airspace
+area=North America
+subarea=South Carolina
+
+name=chambrln.txt
+displayname=Chamberlain
+uri=http://soaringweb.org/TP/Chamberlain/chambrln.txt
+type=airspace
+area=North America
+subarea=South Dakota
+
+name=chlhwr1e.txt
+displayname=Benton ( Chilhowee Gliderport, Racing )
+uri=http://soaringweb.org/TP/Chilhowee_racing/chlhwr1e.txt
+type=airspace
+area=North America
+subarea=Tennessee
+
+name=eaglvl4a.txt
+displayname=Eagleville ( Puckett Gliderport )
+uri=http://soaringweb.org/TP/Eagleville/eaglvl4a.txt
+type=airspace
+area=North America
+subarea=Tennessee
+
+name=marion12.txt
+displayname=Jasper ( #Marion#County# )
+uri=http://soaringweb.org/TP/Marion_co/marion12.txt
+type=airspace
+area=North America
+subarea=Tennessee
+
+name=Johnsn01.txt
+displayname=Johnson City
+uri=http://soaringweb.org/TP/Johnson/Johnsn01.txt
+type=airspace
+area=North America
+subarea=Tennessee
+
+name=hwks_nst.txt
+displayname=Hawks&apos; Nest Moscow
+uri=http://soaringweb.org/TP/Hawks_nest/hwks_nst.txt
+type=airspace
+area=North America
+subarea=Tennessee
+
+name=tullahm4.txt
+displayname=Tullahoma
+uri=http://soaringweb.org/TP/Tullahoma/tullahm4.txt
+type=airspace
+area=North America
+subarea=Tennessee
+
+name=wolfrvr9.txt
+displayname=Wolf River
+uri=http://soaringweb.org/TP/Wolf_river/wolfrvr9.txt
+type=airspace
+area=North America
+subarea=Tennessee
+
+name=brady.txt
+displayname=Brady
+uri=http://soaringweb.org/TP/Brady/brady.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=brenham.txt
+displayname=Brenham
+uri=http://soaringweb.org/TP/Brenham/brenham.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=brenhamt.txt
+displayname=Brenham ( Control Points Only )
+uri=http://soaringweb.org/TP/Brenham_tp/brenhamt.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=FaultLin.txt
+displayname=Briggs ( Fault Line Flyers )
+uri=http://soaringweb.org/TP/Fault/FaultLin.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=caddo.txt
+displayname=Caddo Mills
+uri=http://soaringweb.org/TP/Caddo/caddo.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=dalhart.txt
+displayname=Dalhart
+uri=http://soaringweb.org/TP/Dalhart/dalhart.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=elpaso7.txt
+displayname=El Paso
+uri=http://soaringweb.org/TP/El_paso/elpaso7.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=fredrck7.txt
+displayname=Fredericksburg
+uri=http://soaringweb.org/TP/Fredericksburg/fredrck7.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=frdrckx7.txt
+displayname=Fredericksburg ( cross-country )
+uri=http://soaringweb.org/TP/Fredericksburg_xc/frdrckx7.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=scoh_14.txt
+displayname=Houston ( SCOH )
+uri=http://soaringweb.org/TP/SCOH/scoh_14.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=scohcp14.txt
+displayname=Houston ( SCOH )
+uri=http://soaringweb.org/TP/SCOH_cp/scohcp14.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=ghsa_14.txt
+displayname=Houston ( Wallis )
+uri=http://soaringweb.org/TP/Houston/ghsa_14.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=kerrvill.txt
+displayname=Kerrville
+uri=http://soaringweb.org/TP/Kerrville/kerrvill.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=llano.txt
+displayname=Llano
+uri=http://soaringweb.org/TP/Llano/llano.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=llanoall.txt
+displayname=Llano ( All )
+uri=http://soaringweb.org/TP/Llano_all/llanoall.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=ltlfld00.txt
+displayname=Littlefield
+uri=http://soaringweb.org/TP/Littlefield/ltlfld00.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=marfa03.txt
+displayname=Marfa
+uri=http://soaringweb.org/TP/Marfa/marfa03.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=marfawv4.txt
+displayname=Marfa ( Spring Wave Camp 2004 )
+uri=http://soaringweb.org/TP/Marfa_wave/marfawv4.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=marfawca.txt
+displayname=Marfa ( World Class Nationals )
+uri=http://soaringweb.org/TP/Marfa_wc/marfawca.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=tsa_2012.txt
+displayname=Midlothian
+uri=http://soaringweb.org/TP/TSA/tsa_2012.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=tsacon18.txt
+displayname=Midlothian ( Contests )
+uri=http://soaringweb.org/TP/TSA_contest/tsacon18.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=tsa_recs.txt
+displayname=Midlothian
+uri=http://soaringweb.org/TP/TSA_records/tsa_recs.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=tsa_kan.txt
+displayname=Midlothian ( for flights north into Kansas )
+uri=http://soaringweb.org/TP/TSA_kansas/tsa_kan.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=uvalde7a.txt
+displayname=Uvalde
+uri=http://soaringweb.org/TP/Uvalde/uvalde7a.txt
+type=airspace
+area=North America
+subarea=Texas
+
+name=logan15a.txt
+displayname=Logan
+uri=http://soaringweb.org/TP/Logan/logan15a.txt
+type=airspace
+area=North America
+subarea=Utah
+
+name=nephix17.txt
+displayname=Nephi all
+uri=http://soaringweb.org/TP/Nephi_all/nephix17.txt
+type=airspace
+area=North America
+subarea=Utah
+
+name=parowan9.txt
+displayname=Parowan
+uri=http://soaringweb.org/TP/Parowan/parowan9.txt
+type=airspace
+area=North America
+subarea=Utah
+
+name=parow126.txt
+displayname=Parowan ( 1-26 )
+uri=http://soaringweb.org/TP/Parowan_126/parow126.txt
+type=airspace
+area=North America
+subarea=Utah
+
+name=utah.txt
+displayname=Utah and Environs
+uri=http://soaringweb.org/TP/Utah/utah.txt
+type=airspace
+area=North America
+subarea=USA
+
+name=postmll3.txt
+displayname=Post Mills
+uri=http://soaringweb.org/TP/Post_mills/postmll3.txt
+type=airspace
+area=North America
+subarea=Vermont
+
+name=pmclose3.txt
+displayname=Post Mills ( #250 Closest# )
+uri=http://soaringweb.org/TP/Post_mills_close/pmclose3.txt
+type=airspace
+area=North America
+subarea=Vermont
+
+name=sprngfl6.txt
+displayname=Springfield
+uri=http://soaringweb.org/TP/Springfield/sprngfl6.txt
+type=airspace
+area=North America
+subarea=Vermont
+
+name=stowe.txt
+displayname=Stowe
+uri=http://soaringweb.org/TP/Stowe/stowe.txt
+type=airspace
+area=North America
+subarea=Vermont
+
+name=sugrbsh8.txt
+displayname=Sugarbush
+uri=http://soaringweb.org/TP/Sugarbush/sugrbsh8.txt
+type=airspace
+area=North America
+subarea=Vermont
+
+name=frntroy5.txt
+displayname=Front Royal
+uri=http://soaringweb.org/TP/Front_royal/frntroy5.txt
+type=airspace
+area=North America
+subarea=Virginia
+
+name=nci_2017.txt
+displayname=New Castle
+uri=http://soaringweb.org/TP/New_castle/nci_2017.txt
+type=airspace
+area=North America
+subarea=Virginia
+
+name=garner06.txt
+displayname=Windsor ( Garner Field, Tidewater Soaring Society )
+uri=http://soaringweb.org/TP/Garner/garner06.txt
+type=airspace
+area=North America
+subarea=Virginia
+
+name=ephrat18.txt
+displayname=Ephrata
+uri=http://soaringweb.org/TP/Ephrata/ephrat18.txt
+type=airspace
+area=North America
+subarea=Washington
+
+name=Petrsbrg.txt
+displayname=Petersburg
+uri=http://soaringweb.org/TP/Petersburg/Petrsbrg.txt
+type=airspace
+area=North America
+subarea=West Virginia
+
+name=beloit9.txt
+displayname=Beloit
+uri=http://soaringweb.org/TP/Beloit/beloit9.txt
+type=airspace
+area=North America
+subarea=Wisconsin
+
+name=hartford.txt
+displayname=Hartford
+uri=http://soaringweb.org/TP/Hartford/hartford.txt
+type=airspace
+area=North America
+subarea=Wisconsin
+
+name=wyoming.txt
+displayname=Wyoming
+uri=http://soaringweb.org/TP/Wyoming/wyoming.txt
+type=airspace
+area=North America
+subarea=Wyoming
+
+name=argentin.txt
+displayname=Argentina Airports ( Diego Gugliotta )
+uri=http://soaringweb.org/TP/Argentina/argentin.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=argntn_m.txt
+displayname=Argentina Airports ( Michael-Lorenz Meier )
+uri=http://soaringweb.org/TP/Argentina_milomei/argntn_m.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=altagrac.txt
+displayname=Alta Gracia
+uri=http://soaringweb.org/TP/Alta_gracia/altagrac.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=bolivar.txt
+displayname=Bol#var
+uri=http://soaringweb.org/TP/Bolivar/bolivar.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=crdlra03.txt
+displayname=Cordillera Argentina ( Andes Mountains )
+uri=http://soaringweb.org/TP/Cordillera/crdlra03.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=concepci.txt
+displayname=Concepci#n del Uruguay
+uri=http://soaringweb.org/TP/Concepcion/concepci.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=esperenz.txt
+displayname=Esperenza
+uri=http://soaringweb.org/TP/Esperenza/esperenz.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=cutral.txt
+displayname=Cutral-Co
+uri=http://soaringweb.org/TP/Cutral/cutral.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=juarez.txt
+displayname=Juarez Celman
+uri=http://soaringweb.org/TP/Juarez/juarez.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=mrcsjz7b.txt
+displayname=Marcos Ju#rez
+uri=http://soaringweb.org/TP/Marcos_juarez/mrcsjz7b.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=pergamin.txt
+displayname=Pergamino
+uri=http://soaringweb.org/TP/Pergamino/pergamin.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=reynolds.txt
+displayname=Villa Reynolds
+uri=http://soaringweb.org/TP/Reynolds/reynolds.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=giles_09.txt
+displayname=Albatros ( San Andr#s de Giles )
+uri=http://soaringweb.org/TP/Albatros/giles_09.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=sntrs17a.txt
+displayname=Santa Rosa ( LP )
+uri=http://soaringweb.org/TP/Santa_rosa/sntrs17a.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=trenq_03.txt
+displayname=Trenque Lauquen
+uri=http://soaringweb.org/TP/Trenque/trenq_03.txt
+type=airspace
+area=South America
+subarea=Argentina
+
+name=bauru_08.txt
+displayname=Bauru
+uri=http://soaringweb.org/TP/Bauru/bauru_08.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=bebedur8.txt
+displayname=Bebedouro
+uri=http://soaringweb.org/TP/Bebedouro/bebedur8.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=mourao.txt
+displayname=Campo Mour#o
+uri=http://soaringweb.org/TP/Mourao/mourao.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=thalia09.txt
+displayname=Thalia ( Fazenda )
+uri=http://soaringweb.org/TP/Thalia/thalia09.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=formosa7.txt
+displayname=Formosa
+uri=http://soaringweb.org/TP/Formosa/formosa7.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=itapolis.txt
+displayname=It#polis
+uri=http://soaringweb.org/TP/Itapolis/itapolis.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=juazeiro.txt
+displayname=Juazeiro do Norte ( Cear# )
+uri=http://soaringweb.org/TP/Juazeiro/juazeiro.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=lem_2013.txt
+displayname=Luis Eduardo Magalh#es ( BA )
+uri=http://soaringweb.org/TP/LEM/lem_2013.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=luziana6.txt
+displayname=Luziana
+uri=http://soaringweb.org/TP/Luziania/luziana6.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=paramina.txt
+displayname=Par# de Minas ( SNPA )
+uri=http://soaringweb.org/TP/Para_de_minas/paramina.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=afa_2017.txt
+displayname=Pirassununga ( SP )
+uri=http://soaringweb.org/TP/Pirassununga/afa_2017.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=rclaro17.txt
+displayname=Rio Claro
+uri=http://soaringweb.org/TP/Rioclaro/rclaro17.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=saomigel.txt
+displayname=S#o Miguel d&apos;Oeste
+uri=http://soaringweb.org/TP/Sao_miguel/saomigel.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=sp.txt
+displayname=Estado de SP
+uri=http://soaringweb.org/TP/SP/sp.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=Tatui_11.txt
+displayname=Tatu#
+uri=http://soaringweb.org/TP/Tatui/Tatui_11.txt
+type=airspace
+area=South America
+subarea=Brazil
+
+name=chile_ap.txt
+displayname=Chile ( Airports )
+uri=http://soaringweb.org/TP/Chile_airports/chile_ap.txt
+type=airspace
+area=South America
+subarea=Chile
+
+name=chicure6.txt
+displayname=Chicureo
+uri=http://soaringweb.org/TP/Chicureo/chicure6.txt
+type=airspace
+area=South America
+subarea=Chile
+
+name=santig11.txt
+displayname=Santiago
+uri=http://soaringweb.org/TP/Santiago/santig11.txt
+type=airspace
+area=South America
+subarea=Chile
+
+name=sntgprec.txt
+displayname=Santiago
+uri=http://soaringweb.org/TP/Santiago_precision/sntgprec.txt
+type=airspace
+area=South America
+subarea=Chile
+
+name=clmbeand.txt
+displayname=Colombia and East Andes
+uri=http://soaringweb.org/TP/Colombia_east_andes/clmbeand.txt
+type=airspace
+area=South America
+subarea=Colombia
+

@@ -1,0 +1,308 @@
+** ------------ # Nephi, UT              06Apr17 ------------
+**++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**           Control Points for Nephi, Utah [OLC/Cross-Country Camp]           +
+**                                                                             +
+**               See also the Nephi contest control points only                +
+**  Waypoints with a starting "x" are private airports or outlanding places,   +
+**       which therefore are not eligible for the airport landing bonus.       +
+**                                                                             +
+**                          Contributed by Lynn Alley                          +
+**                                                                             +
+**                     Contribution date was 04 April 2017                     +
+**              File created Thursday, 06 April 2017 at 04:20 GMT              +
+**         Available from the Worldwide Soaring Turnpoint Exchange at          +
+**                            http://soaringweb.org/TP                         +
+**                 or http://soaring.guenther-eichhorn.com/TP                  +
+**                     or http://soaring.geichhorn.com/TP                      +
+**                     or http://serkowski.com/soaring/TP                      +
+**                    or http://soaring.silentflight.ca/TP                     +
+**                       or http://soaring.gahsys.com/TP                       +
+**                                                                             +
+**                           Magnetic variation: 12E                           +
+**                                                                             +
+**                           Time zone: US/Mountain                            +
+**         Summer offset from GMT is -6:00, and in Winter it is -7:00          +
+**                                                                             +
+**   >>>>> Control point names have the number placed before the name <<<<<    +
+**                    Comment is Frequency where available                     +
+**                                                                             +
+**              NOTE: There are 260 waypoints in this collection.              +
+**           The CAI GPS-NAV can handle only 250, so edit this file            +
+**                 with Notepad on your PC or the CAI software                 +
+**                   to choose the 250 that you wish to use.                   +
+**                It would be prudent to choose fewer than 250.                +
+**               to leave room for 'MarkPoints' and a 'Thermal'.               +
+**                                                                             +
+**    There is no virtually no limit for CAI Pocket-NAV and WinPilot users.    +
+**                                                                             +
+**                      UNOFFICIAL, USE AT YOUR OWN RISK                       +
+**                                                                             +
+**          Do not use for navigation, for flight verification only.           +
+**                                                                             +
+**      Always consult the relevant publications for current and correct       +
+**  information. This service is provided free of charge with no warrantees,   +
+**                            expressed or implied.                            +
+**                        User assumes all risk of use.                        +
+**                                                                             +
+**++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2,39:40:58N,111:58:27W,6122F,TS,02 SWStart  ,South West S
+3,39:49:51N,111:58:34W,5494F,TS,03 NWStart  ,North West S
+4,39:39:55N,111:45:38W,7562F,TS,04 SEStart  ,South East S
+5,39:43:57N,111:52:12W,5022F,HAF,05 FINISH   ,123.075A100
+10,38:13:50N,112:40:31W,5863F,TA,10 BeaverMun,122.9A75
+11,37:42:36N,113:38:45W,5181F,TA,11 xBerylJnc,P18/36D75
+12,38:59:23N,113:45:06W,5095F,T,12 BFE      ,Turnpoint
+13,39:23:28N,111:45:06W,8785F,T,13 BigBaldy ,Turnpoint
+14,40:25:41N,110:07:29W,6053F,T,14 BrownsDrw,Turnpoint
+15,39:49:51N,111:21:13W,8990F,T,15 Browns Pk,Turnpoint
+16,37:35:04N,112:23:33W,7600F,T,16 BrcWdlnds,TP Only
+17,38:02:47N,112:33:41W,7508F,T,17 BurntPeak,Turnpoint
+18,39:36:50N,110:45:05W,5958F,TA,18 CrbnCntRg,122.8A100
+19,39:27:14N,110:35:15W,5460F,T,19 Carbonnt.,Turnpoint
+20,39:11:19N,110:36:12W,7538F,TL,20 xCedarMtn,PRI-L 40G
+21,39:36:59N,112:13:13W,7438F,T,21 ChamplnPk,Turnpoint
+22,38:53:35N,113:00:33W,7235F,T,22 CrcktMtns,Turnpoint
+23,38:35:39N,112:41:44W,5843F,T,23 Crispy   ,Turnpoint
+24,38:22:09N,112:22:17W,12174F,T,24 Delano Pk,Turnpoint
+25,39:23:01N,112:30:08W,4759F,TA,25 DeltaMuni,122.8A75
+26,39:33:41N,112:59:13W,7301F,T,26 Drum Mtns,Turnpoint
+27,40:11:38N,110:22:59W,5831F,TA,27 DuchesnMn,122.8A60
+28,38:37:16N,111:05:40W,7054F,T,28 ECedarMtn,Turnpoint
+29,38:53:08N,111:14:59W,6133F,TL,29 xEmrSFlds,Unverified
+30,37:44:43N,111:34:13W,5737F,TA,30 EscalntMn,122.8A60
+31,39:05:29N,111:07:56W,5961F,T,31 Ferron   ,Turnpoint
+32,40:06:49N,109:55:02W,4991F,TL,32 xFrstFlds,Unverified
+33,41:00:04N,111:03:00W,7110F,T,33 GasPlant ,Turnpoint
+34,38:44:30N,113:23:50W,4998F,T,34 GB Int.  ,Turnpoint
+35,40:04:04N,109:24:42W,4848F,T,35 GemPonds ,ColoredPond
+36,38:57:41N,110:13:39W,4225F,TA,36 GrenRvrMn,122.8A75
+37,39:24:17N,112:01:33W,5027F,TL,37 xGregsBch,Unverified
+38,37:54:52N,111:53:25W,10772F,T,38 GriffinTp,Turnpoint
+39,38:25:05N,110:42:15W,4446F,TA,39 Hanksvill,122.8A75
+40,39:21:40N,110:55:01W,5915F,TA,40 HntngtnMn,122.8A75
+41,38:52:52N,110:39:32W,6633F,TL,41 xI70ffRmp,Unverified
+42,38:09:53N,113:50:56W,8606F,T,42 Indian Pk,Turnpoint
+43,39:06:20N,112:08:05W,8569F,T,43 Indian Rc,Turnpoint
+44,39:17:18N,111:16:26W,6954F,T,44 JoesVllDm,Turnpoint
+45,40:38:35N,111:16:51W,6482F,T,45 Kamas    ,Turnpoint
+46,38:45:44N,112:23:06W,5910F,T,46 KanoshCnn,Turnpoint
+47,40:46:35N,110:22:22W,13400F,T,47 KingsPeak,Turnpoint
+48,39:26:47N,111:20:01W,10692F,T,48 Knob Mtn ,Turnpoint
+49,38:18:12N,113:36:34W,8586F,T,49 LamrdrfPk,Turnpoint
+50,39:28:19N,110:00:47W,5204F,T,50 MiddlNwhr,Desolation C
+51,38:25:36N,113:00:48W,5042F,TA,51 MilfordMn,122.8A75
+52,40:42:23N,110:53:22W,10025F,T,52 Mirror Lk,Turnpoint
+53,38:32:26N,112:04:30W,10872F,T,53 Monroe Pk,Turnpoint
+54,39:11:50N,109:45:33W,9420F,T,54 MormonRdg,Turnpoint
+55,39:07:23N,111:30:38W,10446F,T,55 Mt Baldy ,Turnpoint
+56,38:06:25N,110:48:34W,11127F,T,56 Mt Ellen ,Turnpoint
+57,38:41:34N,114:44:32W,10999F,T,57 MtGrafton,Turnpoint
+58,39:48:38N,111:45:59W,11883F,T,58 MountNebo,Turnpoint
+59,39:31:36N,111:28:34W,5830F,TLW,59 xMtPlesnt,ClosedApt
+60,40:23:27N,111:38:45W,11758F,T,60 MountTimp,Turnpoint
+61,38:15:09N,114:23:40W,8849F,T,61 MtWilsnVR,Turnpoint
+62,38:37:39N,113:58:08W,8141F,T,62 Mtn Home ,Turnpoint
+63,37:57:34N,113:11:44W,5585F,T,63 MudSprngs,Turnpoint
+64,37:41:10N,112:51:56W,10589F,T,64 NavajoPnt,Turnpoint
+65,39:44:16N,111:52:02W,5022F,T,65 NephiMuni,123.075A100
+66,39:46:32N,110:27:57W,6695F,T,66 NineMilRc,Turnpoint
+67,38:04:14N,111:22:30W,10101F,T,67 OakCrekDm,Turnpoint
+68,40:44:39N,109:37:17W,9270F,T,68 OaksPrkDm,Turnpoint
+69,39:07:54N,112:33:07W,5662F,T,69 PahvntBtt,Turnpoint
+70,37:50:43N,112:23:31W,6762F,TA,70 PangtchMn,122.9A75
+71,39:10:16N,113:24:00W,8580F,T,71 PinePeak ,Turnpoint
+72,38:44:03N,112:06:06W,5318F,TA,72 RichfldMn,122.8A100
+73,38:53:29N,111:36:41W,7036F,T,73 SalinaCnn,Turnpoint
+74,39:01:45N,111:50:18W,5159F,TA,74 SalnGnnsn,122.9A60
+75,39:38:11N,111:44:26W,9101F,T,75 SaltCrkPk,Turnpoint
+76,39:49:51N,109:55:41W,5402F,TL,76 xSandWash,PRI-TL 50G
+77,39:59:00N,111:37:26W,10696F,T,77 SantaqnPk,Turnpoint
+78,39:46:01N,111:09:16W,7618F,T,78 Scfldslnd,Turnpoint
+79,39:31:49N,111:03:44W,9602F,T,79 StarPoint,Turnpoint
+80,40:08:12N,111:01:37W,7600F,T,80 StrwbrrDm,Turnpoint
+81,38:08:45N,112:07:03W,8590F,T,81 Table Mtn,Turnpoint
+82,39:49:11N,112:04:08W,8224F,T,82 TinticMtn,Turnpoint
+83,39:14:32N,112:54:50W,4575F,T,83 Tracks   ,Turnpoint
+84,40:26:27N,109:30:36W,5278F,TA,84 VernlRgnl,122.7A150
+85,38:21:46N,111:35:45W,7029F,TA,85 WnWndrlnd,122.9A75
+86,38:59:19N,114:18:55W,12081F,T,86 WheelerPk,Turnpoint
+87,38:36:06N,111:43:59W,11395F,T,87 WhiskKnll,Turnpoint
+88,38:52:00N,112:14:00W,0F,T,88 WhitePnPk,Turnpoint
+89,39:17:41N,112:11:50W,9236F,T,89 WillimsPk,Turnpoint
+90,40:28:35N,111:01:28W,9955F,T,90 WolfCrkPk,Turnpoint
+91,39:59:24N,110:35:57W,6941F,T,91 Worn     ,Turnpoint
+100,39:44:16N,111:09:22W,7673F,L,xFields     ,Unverified
+101,38:29:20N,110:55:30W,4720F,L,xSeleniteMin,Unverified
+102,42:55:16N,112:52:51W,4474F,A,AberdeenMuni,122.9A50
+103,42:42:32N,110:56:32W,6221F,A,AftonMuni   ,122.8A75
+104,42:47:50N,112:49:31W,4419F,A,AmericanFlls,122.8A50
+105,42:43:15N,111:52:03W,5435F,A,BancroftMuni,122.9D30
+106,42:14:59N,111:20:30W,5933F,A,BearLakeCnty,122.8A75
+107,42:58:31N,113:21:03W,4716F,A,BearTrap    ,122.9G120
+108,42:34:56N,110:06:32W,6994F,A,BigPnyMlyMmr,122.8A75
+109,38:47:11N,108:03:49W,5193F,A,BlakeField  ,122.8A75
+110,37:35:00N,109:29:00W,5868F,A,BlandingMuni,122.8A75
+111,37:15:18N,109:37:59W,4476F,A,Bluff       ,122.9A45
+112,40:52:10N,111:55:38W,4234F,A,BountflSkypr,122.8A70
+113,41:33:16N,112:03:44W,4230F,A,BrighamCity ,123.05A100
+114,37:42:23N,112:08:45W,7590F,A,BryceCanyon ,122.8A75
+115,37:32:45N,110:42:48W,4167F,A,BullfrogBasn,122.8A40
+116,42:32:33N,113:46:17W,4154F,A,BurleyMuni  ,122.9A80
+117,38:45:18N,109:45:17W,4557F,A,Canyonlands ,122.8A75
+118,37:42:03N,113:05:56W,5622F,A,CedarCtyRgnl,123A150
+119,42:02:45N,110:57:58W,6270F,A,CokevilleMun,122.9A60
+120,36:57:36N,113:00:50W,4874F,A,ColoradoCity,122.7A75
+121,40:29:43N,107:31:18W,6198F,A,Craig-Moffat,122.8A100
+122,38:42:15N,107:38:37W,6470F,A,Crawford    ,122.8A20
+123,38:44:10N,115:28:49W,5181F,A,CurrantRanch,122.9G80
+124,37:45:53N,108:53:19W,6975F,A,DoveCreek   ,122.9D50
+125,42:25:27N,112:06:34W,4919F,A,DownyHydMmrl,122.9A50
+126,38:51:12N,115:38:05W,5133F,A,Duckwater   ,122.9D80
+127,40:55:04N,109:23:26W,6561F,A,DutchJohn   ,122.9A60
+128,40:49:30N,115:47:29W,5140F,A,ElkoRgnl    ,123A150
+129,39:17:59N,114:50:31W,6259F,A,ElyArptYllnF,122.8A150
+130,39:36:13N,116:00:13W,5958F,A,Eureka      ,122.9A60
+131,41:16:29N,111:02:05W,7143F,A,EvanstnUntCB,123A100
+132,38:57:29N,112:21:47W,4984F,A,FillmoreMuni,122.8A75
+133,41:23:36N,110:24:21W,7038F,A,FortBridger ,122.8A75
+134,41:27:29N,109:29:24W,7182F,A,GTRGrnRvrInS,122.9D130
+135,39:31:36N,107:43:41W,5537F,A,GarfieldCnty,122.8A100
+136,39:07:21N,108:31:36W,4858F,A,GrandJunctin,118.1A150
+137,37:26:07N,110:33:51W,4388F,A,HallsCrossng,123A60
+138,42:34:34N,114:08:10W,4172F,A,HazeltonMuni,122.9A90
+139,40:28:54N,111:25:44W,5637F,A,HeberCityMun,122.8A75
+140,37:08:25N,113:18:22W,3350F,A,HurricaneStt,123.05A40
+141,41:58:33N,114:39:29W,5224F,A,Jackpot     ,122.8A60
+142,42:28:54N,114:29:16W,4154F,A,JoslnFldMgcV,118.2A150
+143,38:15:00N,112:13:32W,6069F,A,Junction    ,122.9A60
+144,37:00:40N,112:31:52W,4868F,A,KanabMuni   ,122.8A75
+145,36:42:59N,110:13:42W,5688F,A,Kayenta     ,122.9A75
+146,41:49:27N,110:33:25W,7289F,A,KemmererMuni,122.8A75
+147,37:47:15N,114:25:12W,4831F,A,LincolnConty,122.8A60
+148,41:47:29N,111:51:06W,4457F,A,Logan-Cache ,122.8A100
+149,42:10:14N,112:17:22W,4503F,A,MaladCity   ,122.9A60
+150,40:59:11N,109:40:43W,6179F,A,Manila      ,122.8A60
+151,39:19:53N,111:36:45W,5516F,A,MantiEphraim,122.8A75
+152,36:48:39N,111:38:40W,3603F,A,MarbleCanyon,122.9A35
+153,40:02:56N,107:53:09W,6415F,A,MeekrCltrFld,122.8A100
+154,36:49:59N,114:03:21W,1978F,A,Mesquite    ,122.8A75
+155,37:55:57N,109:20:28W,6966F,A,Monticello  ,122.8A75
+156,38:30:35N,107:53:39W,5758F,A,MontroseRgnl,122.8A150
+157,41:08:55N,111:46:02W,5020F,A,MorganCounty,122.8A50
+158,38:49:53N,107:38:45W,5798F,A,NorthFrkVlly,122.7A60
+159,38:14:20N,108:33:48W,5940F,A,NuclaHopkins,122.8A75
+160,42:14:02N,113:52:40W,4664F,A,OakleyMuni  ,122.9D40
+161,41:11:44N,112:00:47W,4472F,A,OgdenHinckly,118.7A150
+162,36:55:34N,111:26:54W,4316F,A,PageMuni    ,122.8A150
+163,37:51:35N,112:48:57W,5930F,A,Parowan     ,122.8A75
+164,42:47:51N,109:48:40W,7096F,A,PinedaleWenz,122.8A100
+165,42:54:35N,112:35:45W,4452F,A,PocatellRgnl,119.1A150
+166,42:06:25N,111:54:45W,4728F,A,Preston     ,122.8A50
+167,40:13:09N,111:43:24W,4497F,A,ProvoMuni   ,125.3A150
+168,40:05:38N,108:45:47W,5278F,A,Rangely     ,122.8A75
+169,41:35:39N,109:03:55W,6765F,A,RockSprngsSw,122.8A150
+170,40:16:42N,110:03:05W,5176F,A,RooseveltMun,122.8A75
+171,40:47:18N,111:58:40W,4227F,A,SaltLakeCity,APCH:120.9|T
+172,42:38:55N,111:34:55W,5843F,A,SodSprngsTgr,122.8A50
+173,40:37:10N,111:59:34W,4606F,A,SouthValley ,122.7A100
+174,40:08:42N,111:40:04W,4529F,A,SpanshFrkSpr,122.9A100
+175,37:02:11N,113:30:37W,2884F,A,StGeorgeRgnl,122.8A150
+176,40:36:45N,112:21:03W,4322F,A,TooeleValley,123A100
+177,41:07:02N,114:55:20W,5769F,A,WellsMuni   ,122.8A75
+178,40:43:07N,114:01:43W,4237F,A,Wendover    ,122.8A150
+179,38:45:31N,108:08:55W,5000F,A,Westwinds   ,122.8A40
+180,40:24:56N,109:20:37W,4865F,A,x3IRockrRnch,P14/32G50
+181,37:07:15N,109:59:09W,5315F,A,xAZMinerals ,PNE/SWD35
+182,41:43:00N,112:26:50W,4480F,A,xAtk/Thiokol,P16/34A75
+183,39:01:33N,114:05:42W,5180F,W,xBakerRanchs,P03/21D75
+184,38:46:22N,108:02:39W,5050F,A,xBarberField,P17/35G50
+185,38:48:31N,107:38:07W,5784F,A,xBoeingField,P09/27D125
+186,39:06:08N,114:03:12W,5120F,W,xBorderLine ,P17/35D50
+187,38:28:22N,109:39:36W,3940F,A,xCavemanRnch,P07/25D50
+188,41:35:07N,111:54:13W,5155F,W,xCavokRanch ,P04/22G50
+189,40:21:26N,112:01:04W,5000F,A,xCedarValley,P17/35D100
+190,42:05:38N,110:52:20W,6524F,A,xCircleB    ,P09/27D36
+191,37:38:10N,113:14:48W,5600F,A,xCitabriair ,P14/32G40
+192,36:44:04N,111:45:10W,4217F,A,xCliffDwllrs,P04/22D40
+193,38:34:30N,107:57:32W,5560F,A,xCliffordFld,P17/35A100
+194,38:50:54N,107:50:00W,6460F,A,xCridlerFild,P05/23D80
+195,37:15:12N,113:20:03W,3671F,A,xCrystlSprng,P03/21D80
+196,37:20:33N,112:13:25W,6485F,A,xDeerSprings,P17/35D30
+197,39:27:34N,112:39:18W,4589F,A,xDesertAvitn,P16/34D90
+198,38:51:10N,108:01:02W,5680F,A,xDoctorsMesa,P08/26D110
+199,43:04:36N,111:01:53W,5732F,A,xDoubleLRnch,P16/34G75
+200,39:24:08N,108:04:36W,5331F,A,xDryPen     ,P09/27G65
+201,38:50:11N,107:51:57W,6150F,A,xEdenRanch  ,P18/36D100
+202,42:35:16N,114:20:03W,3830F,A,xFairbanks  ,P07/25G80
+203,40:58:20N,111:42:16W,5675F,A,xFieldOfDrms,P08/26G100
+204,37:55:43N,112:46:08W,5764F,A,xFlyngClUtRn,PE/WD80
+205,39:58:16N,107:36:40W,7020F,A,xFlyingDog  ,P09/27G60
+206,38:13:10N,108:12:47W,8000F,A,xFlyngMMrnch,P02/20G150
+207,41:15:14N,111:42:40W,5060F,A,xFlyingR    ,P04/22G55
+208,38:51:45N,107:49:17W,6885F,A,xFlyingWRnch,P17/35G50
+209,41:29:32N,112:35:28W,4440F,A,xFortRanch  ,P16/34D50
+210,43:02:23N,111:02:17W,5698F,A,xFreedomAir ,P18/36G30
+211,37:38:54N,110:10:01W,5372F,A,xFryCanyon  ,P12/30D120
+212,38:39:51N,114:37:56W,5977F,A,xGeyserRanch,P17/35D60
+213,39:59:53N,113:58:38W,5460F,A,xGoshute    ,P01/19A45
+214,37:06:07N,113:18:50W,3350F,A,xGrassyMedws,P16/34A50
+215,38:47:04N,107:54:13W,5200F,A,xGunnsnRvrFr,P05/23D50
+216,37:38:05N,113:09:34W,5460F,A,xHamiltonFrt,P18/36G70
+217,38:09:26N,110:17:32W,4934F,A,xHappyCanyon,P09/27D50
+218,42:51:40N,110:53:53W,6440F,A,xHeiner     ,P04/22G40
+219,38:42:20N,108:56:14W,4820F,A,xHendrckFAWC,P04/22G60
+220,37:31:42N,112:39:39W,8280F,A,xHighMeadow ,P08/26G40
+221,41:07:26N,111:58:23W,4789F,A,xHillAFB    ,P127.15A200
+222,37:53:30N,110:23:03W,3840F,A,xHite       ,PE/WA40
+223,40:52:39N,111:22:33W,5800F,A,xHoytsville ,P08/26A20
+224,38:40:30N,108:59:18W,4670F,A,xHubbard    ,P18/36G75
+225,41:21:20N,114:13:48W,5400F,A,xJuniper    ,P07/25D40
+226,39:22:46N,108:05:16W,5400F,A,xJuniperHlls,P12/30D50
+227,38:18:30N,109:23:47W,6000F,A,xLaSalJunctn,PE/WD40
+228,37:01:31N,111:37:47W,4056F,A,xLarksprArst,P06/24A28
+229,42:36:30N,112:01:57W,5268F,A,xLavHtSprngs,P14/32G100
+230,40:35:04N,115:17:52W,6120F,A,xLlamaRanch ,P18/36G30
+231,42:57:27N,110:58:58W,6000F,A,xLonePnFlyng,PN/SD200
+232,41:21:59N,113:50:35W,4412F,A,xLucin      ,P07/25D50
+233,39:16:05N,108:51:51W,4724F,A,xMackMesa   ,P07/25A60
+234,41:18:59N,115:15:00W,5600F,A,xMarysRiver ,P02/20D80
+235,38:57:40N,107:57:28W,7200F,A,xMesawdArprk,P16/34G40
+236,40:11:51N,112:56:06W,4350F,A,xMichlAAFDPG,P126.2A150
+237,38:32:00N,109:59:00W,3900F,A,xMineralCnyn,P14/32D40
+238,38:48:20N,107:46:27W,5750F,A,xMontemaderI,P16/34G60
+239,37:01:00N,110:12:02W,5192F,A,xMonumntVlly,P16/34A75
+240,42:49:01N,110:16:42W,7470F,A,xMountainKng,P07/25A75
+241,41:31:06N,111:48:09W,5505F,A,xMusselman  ,P17/35D40
+242,37:00:30N,110:47:42W,6160F,A,xNavajoMontn,P04/22D50
+243,38:50:08N,107:48:55W,6409F,A,xOmega1     ,P17/35D50
+244,40:26:28N,109:50:49W,5700F,A,xParadiseAir,P01/19D50
+245,36:28:18N,110:25:04W,6581F,A,xPeabodyBdrd,P02/20A75
+246,40:10:53N,109:40:21W,4815F,A,xPelicanLake,P08/26D75
+247,37:55:56N,112:19:55W,7040F,A,xPfeilerRnch,P08/26D50
+248,39:07:45N,108:08:32W,6585F,A,xPhylconRnch,P01/19G50
+249,41:06:57N,114:06:49W,4980F,A,xPilotCreek ,P07/25D25
+250,39:00:10N,108:42:37W,6980F,A,xPinyon     ,P05/23D90
+251,38:24:58N,107:54:16W,6197F,A,xRangerRanch,P18/36D50
+252,40:18:46N,115:53:48W,6158F,A,xRedRockRnch,P04/22D40
+253,38:50:12N,107:47:34W,6400F,A,xRedlands   ,P16/34D80
+254,38:43:34N,108:07:44W,4900F,A,xRoubideau  ,P15/33G40
+255,36:55:55N,111:58:11W,5868F,A,xSandhllRnch,PNW/SED100
+256,39:05:54N,114:09:01W,5556F,W,xSilverCreek,P14/32D50
+257,42:36:30N,111:43:43W,5598F,A,xSimpson    ,P16/34D30
+258,38:44:15N,108:00:21W,5300F,A,xSkyIsland  ,P18/36D50
+259,38:29:16N,109:26:55W,4875F,A,xSkyRanch   ,P12/30A60
+260,38:50:00N,107:51:32W,6200F,A,xSprcPntTrFr,P02/20G110
+261,42:58:10N,110:57:57W,6210F,A,xStarValley ,P15/33D60
+262,37:29:36N,112:38:44W,8141F,A,xStrwbrryVll,P03/21D50
+263,37:58:30N,113:27:48W,5110F,A,xSunValley  ,P17/35D50
+264,40:21:02N,109:24:05W,4900F,A,xSundog     ,P08/26D50
+265,37:28:20N,112:37:20W,7780F,A,xSwainsCreek,P01/19D50
+266,37:28:04N,108:39:52W,6640F,A,xTannerField,PN/SD40
+267,39:29:00N,110:09:03W,9200F,A,xTavaptsRnch,P04/22G34
+268,40:15:28N,110:51:31W,7050F,A,xThunderRidg,P13/31A48
+269,40:53:08N,114:58:53W,5665F,A,xTwoStarRnch,P18/36D30
+270,40:14:33N,112:05:35W,4902F,A,xWestDesert ,P17/35A24
+271,39:08:48N,109:08:42W,4660F,A,xWestwater  ,P18/36D40
+272,38:50:02N,107:53:32W,6020F,A,xWidner     ,P04/22D50
+273,38:09:45N,108:20:25W,6842F,A,xWillimsRnch,P05/23G60
+

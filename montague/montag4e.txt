@@ -1,0 +1,131 @@
+*>                      Airspace for Montague, California                      <
+*>                                                                             <
+*>                         Data courtesy of Lynn Alley                         <
+*>                                                                             <
+*>              File created on Monday, 12 May 2014 at 03:02 GMT               <
+*>                                                                             <
+* US AIRSPACE INFORMATION FROM NASR DATA EFFECTIVE 2014-02-06                  <
+* UNOFFICIAL DATA (NOT FOR NAVIGATION)                                         <
+*                                                                              <
+* The Class B, C, and D airspace information in this file is composed of       <
+* computed approximations of the arcs and lines that make up various airspace  <
+* boundaries that have been derived from lists of points along those boundaries.<
+* The point data has been taken from the Federal Aviation Administration       <
+* National Airspace System Resource (NASR) geospatial information files as     <
+* published by the National Flight Data Center.  Errors in the computed        <
+* positions of the boundaries themselves will generally be less than 300 feet  <
+* (although errors in the estimated positions of arc center points and radii   <
+* might be much larger); however, any of the following factors may cause errors<
+* to be greater:                                                               <
+*                                                                              <
+*   1.  Errors in the source geospational data;                                <
+*   2.  Cases involving irregularly shaped boundaries, such as those formed    <
+*       by rivers and roads, etc.;                                             <
+*   3.  Errors in the methods or programs that are used to compute the         <
+*       approximations.                                                        <
+*                                                                              <
+* Airspace information for special use airspace, including Prohibited, Restricted,<
+* Alert, Military Operation, and National Defense areas are taken from AIXM    <
+* files published via the Facility Aeronatical Data Distribition Service of the<
+* National Flight Data Center.                                                 <
+*                                                                              <
+* Note that the software used to produce the approximations contained herein   <
+* has not been certified for navigational use -- CONSEQUENTLY, THIS            <
+* INFORMATION SHOULD NOT BE RELIED UPON FOR NAVIGATION.  Use of this           <
+* information for any other purpose is solely at the user's risk.  This        <
+* information is provided free of charge.  No warranty, expressed or implied,  <
+* as to the accuracy or suitability of this information for any use is         <
+* provided.  Always refer to official sources, such as current sectional       <
+* charts, for authoritative information.                                       <
+*                                                                              <
+*                                                                              <
+*> ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ End of the header ^^^^^^^^^^^^^^^^^^^^^^^^^^^^<
+*>                                                                             <
+* >> DROP ZONE PCA016 (TRINITY CENTER) <<
+AC Q
+SB 0,0,0
+AN DZ PCA016 5/1-11/1 YEARLY
+AL SFC
+AH 5500MSL
+V X=40:58:39 N 122:30:24 W
+DC 3.00 
+*
+* >> DROP ZONE POR008 (BEAGLE SKY RANCH) (RADIUS UNSPECIFIED - 3 NM USED) <<
+AC Q
+SB 0,0,0
+AN DZ POR008 DAILY SR-2200 LCL.
+AL SFC
+AH 14000MSL
+V X=42:33:43 N 122:53:43 W
+DC 3.00 
+*
+* >> GOOSE NORTH MOA, OR <<
+AC Q
+SB 0,0,0
+AN GOOSE NORTH 0700-1900 MON-FRI & BY NOTAM
+AL 3000 AGL
+AH 17999 MSL
+DP 42:13:30 N 121:11:53 W
+DP 42:18:22 N 120:37:30 W
+DP 41:47:00 N 120:28:00 W
+DP 41:25:00 N 120:59:00 W
+DP 41:51:03 N 121:22:34 W
+DP 42:13:30 N 121:11:53 W
+*
+* >> GOOSE SOUTH MOA, OR <<
+AC Q
+SB 0,0,0
+AN GOOSE SOUTH 0700-1900 MON-FRI & BY NOTAM
+AL 10000 MSL
+AH 17999 MSL
+DP 41:25:00 N 120:59:00 W
+DP 41:47:00 N 120:28:00 W
+DP 41:12:00 N 120:18:00 W
+DP 41:03:00 N 120:40:00 W
+DP 41:25:00 N 120:59:00 W
+*
+* >> JUNIPER LOW MOA, OR <<
+AC Q
+SB 0,0,0
+AN JUNIPER LOW BY NOTAM
+AL 300 AGL
+AH 10999 MSL
+DP 43:55:59 N 120:44:04 W
+DP 43:57:05 N 120:26:24 W
+DP 43:38:00 N 119:34:04 W
+DP 42:46:00 N 119:12:27 W
+DP 42:46:00 N 120:20:01 W
+DP 43:55:59 N 120:44:04 W
+*
+* >> JUNIPER SOUTH MOA, OR <<
+AC Q
+SB 0,0,0
+AN JUNIPER SOUTH INT BY NOTAM
+AL 11000 MSL
+AH 17999 MSL
+DP 43:21:00 N 120:31:48 W
+DP 43:50:30 N 120:07:48 W
+DP 43:38:00 N 119:34:00 W
+DP 42:40:00 N 119:10:04 W
+DP 42:40:00 N 120:18:04 W
+DP 43:21:00 N 120:31:48 W
+*
+* >> KLAMATH FALLS CLASS D <<
+AC D
+SB 0,255,0
+AN KLAMATH FALLS CLASS D
+AL SFC
+AH 6600 MSL
+V X=42:09:22 N 121:43:59 W
+DC 5.40 
+*
+* >> MEDFORD CLASS D <<
+AC D
+SB 0,255,0
+AN MEDFORD CLASS D
+AL SFC
+AH 3800 MSL
+V X=42:22:20 N 122:52:21 W
+DC 4.10 
+*
+*                                End of the data                                
